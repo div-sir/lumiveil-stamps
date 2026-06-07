@@ -1,0 +1,17 @@
+{
+  "id": "R_ntu_hospital",
+  "name": "台大醫院",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCode": "R",
+  "stationCode": "R09",
+  "latitude": 25.0439,
+  "longitude": 121.5154,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "淡水信義線台大醫院站",
+  "action": "fogErase",
+  "unlock": null
+}

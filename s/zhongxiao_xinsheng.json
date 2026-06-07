@@ -1,0 +1,17 @@
+{
+  "id": "zhongxiao_xinsheng",
+  "name": "忠孝新生",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCode": "BL",
+  "stationCode": "BL13",
+  "latitude": 25.0431,
+  "longitude": 121.5320,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "板南線 × 松山新店線忠孝新生站",
+  "action": "fogErase",
+  "unlock": null
+}

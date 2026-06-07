@@ -1,0 +1,17 @@
+{
+  "id": "G_dongmen",
+  "name": "東門",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCode": "G",
+  "stationCode": "G14",
+  "latitude": 25.0339,
+  "longitude": 121.5295,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "松山新店線東門站，永康街美食商圈",
+  "action": "fogErase",
+  "unlock": null
+}

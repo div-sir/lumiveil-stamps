@@ -1,0 +1,17 @@
+{
+  "id": "G_songjiang",
+  "name": "松江南京",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCode": "G",
+  "stationCode": "G05",
+  "latitude": 25.0524,
+  "longitude": 121.5349,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "松山新店線 × 中和新蘆線松江南京站",
+  "action": "fogErase",
+  "unlock": null
+}

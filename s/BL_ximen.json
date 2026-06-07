@@ -1,0 +1,17 @@
+{
+  "id": "BL_ximen",
+  "name": "西門",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCode": "BL",
+  "stationCode": "BL11",
+  "latitude": 25.0423,
+  "longitude": 121.5079,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "板南線西門站，台北最熱鬧的青年商圈",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "G_xingtian",
+  "name": "行天宮",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCode": "G",
+  "stationCode": "G06",
+  "latitude": 25.0597,
+  "longitude": 121.5330,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "松山新店線行天宮站，台北著名財神廟",
+  "action": "fogErase",
+  "unlock": null
+}

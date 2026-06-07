@@ -1,0 +1,17 @@
+{
+  "id": "G_taipei_arena",
+  "name": "台北小巨蛋",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCode": "G",
+  "stationCode": "G03",
+  "latitude": 25.0514,
+  "longitude": 121.5557,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "松山新店線台北小巨蛋站",
+  "action": "fogErase",
+  "unlock": null
+}

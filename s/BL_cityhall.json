@@ -1,0 +1,17 @@
+{
+  "id": "BL_cityhall",
+  "name": "市政府",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCode": "BL",
+  "stationCode": "BL17",
+  "latitude": 25.0405,
+  "longitude": 121.5656,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "板南線市政府站，台北 101 商圈入口",
+  "action": "fogErase",
+  "unlock": null
+}

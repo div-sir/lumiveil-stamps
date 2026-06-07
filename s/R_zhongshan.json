@@ -1,0 +1,17 @@
+{
+  "id": "R_zhongshan",
+  "name": "中山",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCode": "R",
+  "stationCode": "R11",
+  "latitude": 25.0527,
+  "longitude": 121.5221,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "淡水信義線中山站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "R_shilin",
+  "name": "士林",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCode": "R",
+  "stationCode": "R16",
+  "latitude": 25.0938,
+  "longitude": 121.5246,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "淡水信義線士林站，故宮博物院交通要點",
+  "action": "fogErase",
+  "unlock": null
+}

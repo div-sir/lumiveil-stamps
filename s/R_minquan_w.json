@@ -1,0 +1,17 @@
+{
+  "id": "R_minquan_w",
+  "name": "民權西路",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCode": "R",
+  "stationCode": "R13",
+  "latitude": 25.0624,
+  "longitude": 121.5213,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "淡水信義線 × 中和新蘆線民權西路站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "R_jiantan",
+  "name": "劍潭",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCode": "R",
+  "stationCode": "R15",
+  "latitude": 25.0851,
+  "longitude": 121.5132,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "淡水信義線劍潭站，士林夜市入口",
+  "action": "fogErase",
+  "unlock": null
+}

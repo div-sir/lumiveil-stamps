@@ -1,0 +1,17 @@
+{
+  "id": "taipei_main",
+  "name": "台北車站",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCode": "R",
+  "stationCode": "R10",
+  "latitude": 25.0478,
+  "longitude": 121.5170,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "台北捷運樞紐站，淡水信義線 × 板南線交會",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "BL_dunhua",
+  "name": "忠孝敦化",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCode": "BL",
+  "stationCode": "BL15",
+  "latitude": 25.0408,
+  "longitude": 121.5534,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "板南線忠孝敦化站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "taipower",
+  "name": "台電大樓",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCode": "G",
+  "stationCode": "G11",
+  "latitude": 25.0247,
+  "longitude": 121.5271,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "松山新店線台電大樓站",
+  "action": "fogErase",
+  "unlock": null
+}
