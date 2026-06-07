@@ -1,0 +1,17 @@
+{
+  "id": "tra_xinying",
+  "name": "新營",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4120",
+  "latitude": 23.306398,
+  "longitude": 120.323338,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵新營站",
+  "action": "fogErase",
+  "unlock": null
+}

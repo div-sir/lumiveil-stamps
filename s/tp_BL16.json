@@ -1,0 +1,19 @@
+{
+  "id": "tp_BL16",
+  "name": "忠孝敦化",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BL"
+  ],
+  "stationCode": "BL16",
+  "latitude": 25.041509,
+  "longitude": 121.549479,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運忠孝敦化站（BL16）",
+  "action": "fogErase",
+  "unlock": null
+}

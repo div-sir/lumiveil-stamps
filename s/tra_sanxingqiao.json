@@ -1,0 +1,17 @@
+{
+  "id": "tra_sanxingqiao",
+  "name": "三姓橋",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1220",
+  "latitude": 24.787232,
+  "longitude": 120.92822,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵三姓橋站",
+  "action": "fogErase",
+  "unlock": null
+}

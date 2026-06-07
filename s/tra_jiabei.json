@@ -1,0 +1,17 @@
+{
+  "id": "tra_jiabei",
+  "name": "嘉北",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4070",
+  "latitude": 23.499842,
+  "longitude": 120.448423,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵嘉北站",
+  "action": "fogErase",
+  "unlock": null
+}

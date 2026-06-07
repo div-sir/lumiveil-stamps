@@ -1,0 +1,17 @@
+{
+  "id": "tra_neiwan",
+  "name": "內灣",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1208",
+  "latitude": 24.705346,
+  "longitude": 121.182679,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵內灣站",
+  "action": "fogErase",
+  "unlock": null
+}

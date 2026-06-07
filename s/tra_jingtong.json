@@ -1,0 +1,17 @@
+{
+  "id": "tra_jingtong",
+  "name": "菁桐",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7336",
+  "latitude": 25.023978,
+  "longitude": 121.723869,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵菁桐站",
+  "action": "fogErase",
+  "unlock": null
+}

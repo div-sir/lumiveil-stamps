@@ -1,0 +1,17 @@
+{
+  "id": "tra_linbian",
+  "name": "林邊",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "5090",
+  "latitude": 22.431493,
+  "longitude": 120.515028,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵林邊站",
+  "action": "fogErase",
+  "unlock": null
+}

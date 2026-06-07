@@ -1,0 +1,17 @@
+{
+  "id": "tra_fengshan",
+  "name": "鳳山",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4440",
+  "latitude": 22.631597,
+  "longitude": 120.356677,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵鳳山站",
+  "action": "fogErase",
+  "unlock": null
+}

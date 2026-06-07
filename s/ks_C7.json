@@ -1,0 +1,19 @@
+{
+  "id": "ks_C7",
+  "name": "軟體園區",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C7",
+  "latitude": 22.605685,
+  "longitude": 120.300801,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運軟體園區站（C7）",
+  "action": "fogErase",
+  "unlock": null
+}

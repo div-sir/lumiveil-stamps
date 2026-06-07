@@ -1,0 +1,19 @@
+{
+  "id": "ks_C1",
+  "name": "籬仔內",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C1",
+  "latitude": 22.604578,
+  "longitude": 120.324612,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運籬仔內站（C1）",
+  "action": "fogErase",
+  "unlock": null
+}

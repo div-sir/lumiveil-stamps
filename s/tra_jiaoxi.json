@@ -1,0 +1,17 @@
+{
+  "id": "tra_jiaoxi",
+  "name": "礁溪",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7210",
+  "latitude": 24.826803,
+  "longitude": 121.775485,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵礁溪站",
+  "action": "fogErase",
+  "unlock": null
+}

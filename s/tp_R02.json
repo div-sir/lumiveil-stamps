@@ -1,0 +1,19 @@
+{
+  "id": "tp_R02",
+  "name": "象山",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R02",
+  "latitude": 25.032868,
+  "longitude": 121.569758,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運象山站（R02）",
+  "action": "fogErase",
+  "unlock": null
+}

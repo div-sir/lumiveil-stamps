@@ -1,0 +1,19 @@
+{
+  "id": "ty_A19",
+  "name": "桃園體育園區",
+  "category": "mrt_station",
+  "networkID": "taoyuan_mrt",
+  "lineCodes": [
+    "A"
+  ],
+  "stationCode": "A19",
+  "latitude": 25.001744,
+  "longitude": 121.203271,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "桃園捷運桃園體育園區站（A19）",
+  "action": "fogErase",
+  "unlock": null
+}

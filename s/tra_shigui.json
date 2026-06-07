@@ -1,0 +1,17 @@
+{
+  "id": "tra_shigui",
+  "name": "石龜",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3490",
+  "latitude": 23.639562,
+  "longitude": 120.470958,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵石龜站",
+  "action": "fogErase",
+  "unlock": null
+}

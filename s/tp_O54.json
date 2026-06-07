@@ -1,0 +1,19 @@
+{
+  "id": "tp_O54",
+  "name": "蘆洲",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O54",
+  "latitude": 25.091278,
+  "longitude": 121.465104,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運蘆洲站（O54）",
+  "action": "fogErase",
+  "unlock": null
+}

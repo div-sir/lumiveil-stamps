@@ -1,0 +1,17 @@
+{
+  "id": "tc_106",
+  "name": "文心崇德",
+  "category": "mrt_station",
+  "networkID": "taichung_mrt",
+  "lineCodes": null,
+  "stationCode": "106",
+  "latitude": 24.172189,
+  "longitude": 120.684989,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺中捷運文心崇德站（106）",
+  "action": "fogErase",
+  "unlock": null
+}

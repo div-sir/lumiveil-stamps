@@ -1,0 +1,17 @@
+{
+  "id": "tra_douliu",
+  "name": "斗六",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3470",
+  "latitude": 23.711808,
+  "longitude": 120.541155,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵斗六站",
+  "action": "fogErase",
+  "unlock": null
+}

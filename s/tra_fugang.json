@@ -1,0 +1,17 @@
+{
+  "id": "tra_fugang",
+  "name": "富岡",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1130",
+  "latitude": 24.93409,
+  "longitude": 121.082822,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵富岡站",
+  "action": "fogErase",
+  "unlock": null
+}

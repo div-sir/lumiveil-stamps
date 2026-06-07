@@ -1,0 +1,19 @@
+{
+  "id": "nt_V01",
+  "name": "紅樹林",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "V"
+  ],
+  "stationCode": "V01",
+  "latitude": 25.15544,
+  "longitude": 121.458912,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運紅樹林站（V01）",
+  "action": "fogErase",
+  "unlock": null
+}

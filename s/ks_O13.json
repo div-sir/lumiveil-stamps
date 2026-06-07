@@ -1,0 +1,19 @@
+{
+  "id": "ks_O13",
+  "name": "大東",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O13",
+  "latitude": 22.625192,
+  "longitude": 120.36336,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運大東站（O13）",
+  "action": "fogErase",
+  "unlock": null
+}

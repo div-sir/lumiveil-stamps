@@ -1,0 +1,19 @@
+{
+  "id": "ks_C20",
+  "name": "臺鐵美術館",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C20",
+  "latitude": 22.652114,
+  "longitude": 120.281749,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運臺鐵美術館站（C20）",
+  "action": "fogErase",
+  "unlock": null
+}

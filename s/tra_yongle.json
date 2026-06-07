@@ -1,0 +1,17 @@
+{
+  "id": "tra_yongle",
+  "name": "永樂",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7110",
+  "latitude": 24.568388,
+  "longitude": 121.844557,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵永樂站",
+  "action": "fogErase",
+  "unlock": null
+}

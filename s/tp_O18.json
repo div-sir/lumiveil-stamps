@@ -1,0 +1,19 @@
+{
+  "id": "tp_O18",
+  "name": "新莊",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O18",
+  "latitude": 25.036333,
+  "longitude": 121.453359,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運新莊站（O18）",
+  "action": "fogErase",
+  "unlock": null
+}

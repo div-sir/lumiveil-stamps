@@ -1,0 +1,17 @@
+{
+  "id": "tra_xinwuri",
+  "name": "新烏日",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3340",
+  "latitude": 24.109784,
+  "longitude": 120.614252,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵新烏日站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ty_A10",
+  "name": "山鼻",
+  "category": "mrt_station",
+  "networkID": "taoyuan_mrt",
+  "lineCodes": [
+    "A"
+  ],
+  "stationCode": "A10",
+  "latitude": 25.080806,
+  "longitude": 121.284778,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "桃園捷運山鼻站（A10）",
+  "action": "fogErase",
+  "unlock": null
+}

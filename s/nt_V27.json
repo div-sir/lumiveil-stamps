@@ -1,0 +1,19 @@
+{
+  "id": "nt_V27",
+  "name": "沙崙",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "V"
+  ],
+  "stationCode": "V27",
+  "latitude": 25.18745,
+  "longitude": 121.41719,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運沙崙站（V27）",
+  "action": "fogErase",
+  "unlock": null
+}

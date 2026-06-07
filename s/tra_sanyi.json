@@ -1,0 +1,17 @@
+{
+  "id": "tra_sanyi",
+  "name": "三義",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3190",
+  "latitude": 24.420567,
+  "longitude": 120.774238,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵三義站",
+  "action": "fogErase",
+  "unlock": null
+}

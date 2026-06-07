@@ -1,0 +1,17 @@
+{
+  "id": "tra_hualien",
+  "name": "花蓮",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7000",
+  "latitude": 23.99264,
+  "longitude": 121.600952,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵花蓮站",
+  "action": "fogErase",
+  "unlock": null
+}

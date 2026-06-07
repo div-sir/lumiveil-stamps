@@ -1,0 +1,19 @@
+{
+  "id": "ty_A6",
+  "name": "泰山貴和",
+  "category": "mrt_station",
+  "networkID": "taoyuan_mrt",
+  "lineCodes": [
+    "A"
+  ],
+  "stationCode": "A6",
+  "latitude": 25.033345,
+  "longitude": 121.422963,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "桃園捷運泰山貴和站（A6）",
+  "action": "fogErase",
+  "unlock": null
+}

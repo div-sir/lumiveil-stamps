@@ -1,0 +1,19 @@
+{
+  "id": "ty_A11",
+  "name": "坑口",
+  "category": "mrt_station",
+  "networkID": "taoyuan_mrt",
+  "lineCodes": [
+    "A"
+  ],
+  "stationCode": "A11",
+  "latitude": 25.086491,
+  "longitude": 121.266356,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "桃園捷運坑口站（A11）",
+  "action": "fogErase",
+  "unlock": null
+}

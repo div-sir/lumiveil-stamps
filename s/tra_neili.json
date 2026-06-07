@@ -1,0 +1,17 @@
+{
+  "id": "tra_neili",
+  "name": "內壢",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1090",
+  "latitude": 24.97256,
+  "longitude": 121.258353,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵內壢站",
+  "action": "fogErase",
+  "unlock": null
+}

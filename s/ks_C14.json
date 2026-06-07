@@ -1,0 +1,19 @@
+{
+  "id": "ks_C14",
+  "name": "哈瑪星",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C14",
+  "latitude": 22.621612,
+  "longitude": 120.275839,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運哈瑪星站（C14）",
+  "action": "fogErase",
+  "unlock": null
+}

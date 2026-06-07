@@ -1,0 +1,17 @@
+{
+  "id": "tc_118",
+  "name": "烏日",
+  "category": "mrt_station",
+  "networkID": "taichung_mrt",
+  "lineCodes": null,
+  "stationCode": "118",
+  "latitude": 24.108877,
+  "longitude": 120.624866,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺中捷運烏日站（118）",
+  "action": "fogErase",
+  "unlock": null
+}

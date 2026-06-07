@@ -1,0 +1,19 @@
+{
+  "id": "tp_O19",
+  "name": "輔大",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O19",
+  "latitude": 25.032722,
+  "longitude": 121.435275,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運輔大站（O19）",
+  "action": "fogErase",
+  "unlock": null
+}

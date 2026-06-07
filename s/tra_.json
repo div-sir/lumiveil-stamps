@@ -1,0 +1,17 @@
+{
+  "id": "tra_",
+  "name": "中央號誌",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": null,
+  "latitude": 22.275114,
+  "longitude": 120.742095,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵中央號誌站",
+  "action": "fogErase",
+  "unlock": null
+}

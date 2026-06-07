@@ -1,0 +1,17 @@
+{
+  "id": "tra_gongliao",
+  "name": "貢寮",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7300",
+  "latitude": 25.021812,
+  "longitude": 121.908826,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵貢寮站",
+  "action": "fogErase",
+  "unlock": null
+}

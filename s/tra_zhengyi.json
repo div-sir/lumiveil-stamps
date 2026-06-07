@@ -1,0 +1,17 @@
+{
+  "id": "tra_zhengyi",
+  "name": "正義",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4430",
+  "latitude": 22.634116,
+  "longitude": 120.342738,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵正義站",
+  "action": "fogErase",
+  "unlock": null
+}

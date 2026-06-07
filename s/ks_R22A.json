@@ -1,0 +1,19 @@
+{
+  "id": "ks_R22A",
+  "name": "橋頭糖廠",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R22A",
+  "latitude": 22.753556,
+  "longitude": 120.314555,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運橋頭糖廠站（R22A）",
+  "action": "fogErase",
+  "unlock": null
+}

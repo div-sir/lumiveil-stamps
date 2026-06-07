@@ -1,0 +1,17 @@
+{
+  "id": "tra_nanshi",
+  "name": "南勢",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3170",
+  "latitude": 24.522633,
+  "longitude": 120.791428,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵南勢站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tp_O05",
+  "name": "古亭",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "O",
+    "G"
+  ],
+  "stationCode": "O05;G09",
+  "latitude": 25.02641,
+  "longitude": 121.522953,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運古亭站（O05）",
+  "action": "fogErase",
+  "unlock": null
+}

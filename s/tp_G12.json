@@ -1,0 +1,20 @@
+{
+  "id": "tp_G12",
+  "name": "西門",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "G",
+    "BL"
+  ],
+  "stationCode": "G12;BL11",
+  "latitude": 25.042713,
+  "longitude": 121.508608,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運西門站（G12）",
+  "action": "fogErase",
+  "unlock": null
+}

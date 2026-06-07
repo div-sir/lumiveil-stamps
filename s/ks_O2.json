@@ -1,0 +1,19 @@
+{
+  "id": "ks_O2",
+  "name": "鹽埕埔",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O2",
+  "latitude": 22.624155,
+  "longitude": 120.284077,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運鹽埕埔站（O2）",
+  "action": "fogErase",
+  "unlock": null
+}

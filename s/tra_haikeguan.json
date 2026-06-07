@@ -1,0 +1,17 @@
+{
+  "id": "tra_haikeguan",
+  "name": "海科館",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7361",
+  "latitude": 25.137402,
+  "longitude": 121.80005,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵海科館站",
+  "action": "fogErase",
+  "unlock": null
+}

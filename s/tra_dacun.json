@@ -1,0 +1,17 @@
+{
+  "id": "tra_dacun",
+  "name": "大村",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3380",
+  "latitude": 23.990052,
+  "longitude": 120.560572,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵大村站",
+  "action": "fogErase",
+  "unlock": null
+}

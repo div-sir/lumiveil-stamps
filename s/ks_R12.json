@@ -1,0 +1,19 @@
+{
+  "id": "ks_R12",
+  "name": "後驛",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R12",
+  "latitude": 22.647739,
+  "longitude": 120.303221,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運後驛站（R12）",
+  "action": "fogErase",
+  "unlock": null
+}

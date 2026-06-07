@@ -1,0 +1,17 @@
+{
+  "id": "thsr_tainan",
+  "name": "台南",
+  "category": "thsr_station",
+  "networkID": "thsr",
+  "lineCodes": null,
+  "stationCode": null,
+  "latitude": 22.924673,
+  "longitude": 120.286415,
+  "gpsRadiusMeters": 250,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "台灣高鐵台南站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tc_110",
+  "name": "市政府",
+  "category": "mrt_station",
+  "networkID": "taichung_mrt",
+  "lineCodes": null,
+  "stationCode": "110",
+  "latitude": 24.162098,
+  "longitude": 120.649235,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺中捷運市政府站（110）",
+  "action": "fogErase",
+  "unlock": null
+}

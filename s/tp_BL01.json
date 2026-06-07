@@ -1,0 +1,19 @@
+{
+  "id": "tp_BL01",
+  "name": "頂埔",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BL"
+  ],
+  "stationCode": "BL01",
+  "latitude": 24.959734,
+  "longitude": 121.419477,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運頂埔站（BL01）",
+  "action": "fogErase",
+  "unlock": null
+}

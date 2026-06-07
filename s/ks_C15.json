@@ -1,0 +1,19 @@
+{
+  "id": "ks_C15",
+  "name": "壽山公園",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C15",
+  "latitude": 22.62653,
+  "longitude": 120.278669,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運壽山公園站（C15）",
+  "action": "fogErase",
+  "unlock": null
+}

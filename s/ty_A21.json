@@ -1,0 +1,19 @@
+{
+  "id": "ty_A21",
+  "name": "環北",
+  "category": "mrt_station",
+  "networkID": "taoyuan_mrt",
+  "lineCodes": [
+    "A"
+  ],
+  "stationCode": "A21",
+  "latitude": 24.967166,
+  "longitude": 121.2208,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "桃園捷運環北站（A21）",
+  "action": "fogErase",
+  "unlock": null
+}

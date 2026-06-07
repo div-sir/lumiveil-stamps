@@ -1,0 +1,19 @@
+{
+  "id": "tp_O02",
+  "name": "景安",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O02",
+  "latitude": 24.993786,
+  "longitude": 121.505046,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運景安站（O02）",
+  "action": "fogErase",
+  "unlock": null
+}

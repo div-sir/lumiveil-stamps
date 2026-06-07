@@ -1,0 +1,17 @@
+{
+  "id": "tra_luzhu",
+  "name": "路竹",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4300",
+  "latitude": 22.85386,
+  "longitude": 120.266634,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵路竹站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "nt_Y14",
+  "name": "中原",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "Y"
+  ],
+  "stationCode": "Y14",
+  "latitude": 25.008178,
+  "longitude": 121.484274,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運中原站（Y14）",
+  "action": "fogErase",
+  "unlock": null
+}

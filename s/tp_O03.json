@@ -1,0 +1,19 @@
+{
+  "id": "tp_O03",
+  "name": "永安市場",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O03",
+  "latitude": 25.00241,
+  "longitude": 121.5109,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運永安市場站（O03）",
+  "action": "fogErase",
+  "unlock": null
+}

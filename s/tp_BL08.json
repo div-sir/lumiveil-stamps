@@ -1,0 +1,19 @@
+{
+  "id": "tp_BL08",
+  "name": "新埔",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BL"
+  ],
+  "stationCode": "BL08",
+  "latitude": 25.02346,
+  "longitude": 121.468306,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運新埔站（BL08）",
+  "action": "fogErase",
+  "unlock": null
+}

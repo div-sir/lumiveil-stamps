@@ -1,0 +1,17 @@
+{
+  "id": "tra_luye",
+  "name": "鹿野",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "6020",
+  "latitude": 22.912393,
+  "longitude": 121.137141,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵鹿野站",
+  "action": "fogErase",
+  "unlock": null
+}

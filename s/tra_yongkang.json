@@ -1,0 +1,17 @@
+{
+  "id": "tra_yongkang",
+  "name": "永康",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4200",
+  "latitude": 23.038556,
+  "longitude": 120.253444,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵永康站",
+  "action": "fogErase",
+  "unlock": null
+}

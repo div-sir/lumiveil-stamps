@@ -1,0 +1,19 @@
+{
+  "id": "ks_R7",
+  "name": "獅甲",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R7",
+  "latitude": 22.60618,
+  "longitude": 120.307878,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運獅甲站（R7）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_dahua",
+  "name": "大華",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7331",
+  "latitude": 25.049857,
+  "longitude": 121.797478,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵大華站",
+  "action": "fogErase",
+  "unlock": null
+}

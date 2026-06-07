@@ -1,0 +1,19 @@
+{
+  "id": "ks_C9",
+  "name": "旅運中心",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C9",
+  "latitude": 22.611637,
+  "longitude": 120.293348,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運旅運中心站（C9）",
+  "action": "fogErase",
+  "unlock": null
+}

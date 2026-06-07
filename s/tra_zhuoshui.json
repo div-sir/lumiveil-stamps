@@ -1,0 +1,17 @@
+{
+  "id": "tra_zhuoshui",
+  "name": "濁水",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3432",
+  "latitude": 23.834535,
+  "longitude": 120.704792,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵濁水站",
+  "action": "fogErase",
+  "unlock": null
+}

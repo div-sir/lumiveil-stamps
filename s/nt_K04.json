@@ -1,0 +1,19 @@
+{
+  "id": "nt_K04",
+  "name": "耕莘安康院區",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "K"
+  ],
+  "stationCode": "K04",
+  "latitude": 24.954474,
+  "longitude": 121.504692,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運耕莘安康院區站（K04）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ks_O11",
+  "name": "鳳山西站",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O11",
+  "latitude": 22.625363,
+  "longitude": 120.348049,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運鳳山西站站（O11）",
+  "action": "fogErase",
+  "unlock": null
+}

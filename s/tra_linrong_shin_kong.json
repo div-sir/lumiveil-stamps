@@ -1,0 +1,17 @@
+{
+  "id": "tra_linrong_shin_kong",
+  "name": "林榮新光",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "6200",
+  "latitude": 23.802589,
+  "longitude": 121.462022,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵林榮新光站",
+  "action": "fogErase",
+  "unlock": null
+}

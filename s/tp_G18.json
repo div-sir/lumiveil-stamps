@@ -1,0 +1,19 @@
+{
+  "id": "tp_G18",
+  "name": "南京三民",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "G"
+  ],
+  "stationCode": "G18",
+  "latitude": 25.051428,
+  "longitude": 121.564306,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運南京三民站（G18）",
+  "action": "fogErase",
+  "unlock": null
+}

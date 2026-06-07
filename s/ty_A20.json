@@ -1,0 +1,19 @@
+{
+  "id": "ty_A20",
+  "name": "興南",
+  "category": "mrt_station",
+  "networkID": "taoyuan_mrt",
+  "lineCodes": [
+    "A"
+  ],
+  "stationCode": "A20",
+  "latitude": 24.980033,
+  "longitude": 121.216436,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "桃園捷運興南站（A20）",
+  "action": "fogErase",
+  "unlock": null
+}

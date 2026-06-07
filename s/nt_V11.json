@@ -1,0 +1,19 @@
+{
+  "id": "nt_V11",
+  "name": "崁頂",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "V"
+  ],
+  "stationCode": "V11",
+  "latitude": 25.20095,
+  "longitude": 121.434621,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運崁頂站（V11）",
+  "action": "fogErase",
+  "unlock": null
+}

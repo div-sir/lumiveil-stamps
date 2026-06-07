@@ -1,0 +1,17 @@
+{
+  "id": "tra_xinma",
+  "name": "新馬",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7140",
+  "latitude": 24.615732,
+  "longitude": 121.822679,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵新馬站",
+  "action": "fogErase",
+  "unlock": null
+}

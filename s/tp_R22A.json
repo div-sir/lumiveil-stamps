@@ -1,0 +1,19 @@
+{
+  "id": "tp_R22A",
+  "name": "新北投",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R22A",
+  "latitude": 25.136964,
+  "longitude": 121.503169,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運新北投站（R22A）",
+  "action": "fogErase",
+  "unlock": null
+}

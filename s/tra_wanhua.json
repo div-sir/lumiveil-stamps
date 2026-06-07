@@ -1,0 +1,17 @@
+{
+  "id": "tra_wanhua",
+  "name": "萬華",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1010",
+  "latitude": 25.03344,
+  "longitude": 121.499927,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵萬華站",
+  "action": "fogErase",
+  "unlock": null
+}

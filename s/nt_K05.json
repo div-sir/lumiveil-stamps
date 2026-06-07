@@ -1,0 +1,19 @@
+{
+  "id": "nt_K05",
+  "name": "景文科大",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "K"
+  ],
+  "stationCode": "K05",
+  "latitude": 24.955556,
+  "longitude": 121.510416,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運景文科大站（K05）",
+  "action": "fogErase",
+  "unlock": null
+}

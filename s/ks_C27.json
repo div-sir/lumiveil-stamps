@@ -1,0 +1,19 @@
+{
+  "id": "ks_C27",
+  "name": "灣仔內",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C27",
+  "latitude": 22.653543,
+  "longitude": 120.31888,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運灣仔內站（C27）",
+  "action": "fogErase",
+  "unlock": null
+}

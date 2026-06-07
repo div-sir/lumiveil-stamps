@@ -1,0 +1,17 @@
+{
+  "id": "tra_ershui",
+  "name": "二水",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3430",
+  "latitude": 23.813291,
+  "longitude": 120.6184,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵二水站",
+  "action": "fogErase",
+  "unlock": null
+}

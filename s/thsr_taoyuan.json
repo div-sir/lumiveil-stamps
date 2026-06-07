@@ -1,0 +1,17 @@
+{
+  "id": "thsr_taoyuan",
+  "name": "桃園",
+  "category": "thsr_station",
+  "networkID": "thsr",
+  "lineCodes": null,
+  "stationCode": null,
+  "latitude": 25.013025,
+  "longitude": 121.214828,
+  "gpsRadiusMeters": 250,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "台灣高鐵桃園站",
+  "action": "fogErase",
+  "unlock": null
+}

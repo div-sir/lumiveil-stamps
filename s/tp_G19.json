@@ -1,0 +1,19 @@
+{
+  "id": "tp_G19",
+  "name": "松山",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "G"
+  ],
+  "stationCode": "G19",
+  "latitude": 25.050071,
+  "longitude": 121.577474,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運松山站（G19）",
+  "action": "fogErase",
+  "unlock": null
+}

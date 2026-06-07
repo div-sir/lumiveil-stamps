@@ -1,0 +1,19 @@
+{
+  "id": "tp_G03A",
+  "name": "小碧潭",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "G"
+  ],
+  "stationCode": "G03A",
+  "latitude": 24.97177,
+  "longitude": 121.530599,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運小碧潭站（G03A）",
+  "action": "fogErase",
+  "unlock": null
+}

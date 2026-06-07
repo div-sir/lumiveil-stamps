@@ -1,0 +1,19 @@
+{
+  "id": "tp_R18",
+  "name": "明德",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R18",
+  "latitude": 25.109859,
+  "longitude": 121.518769,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運明德站（R18）",
+  "action": "fogErase",
+  "unlock": null
+}

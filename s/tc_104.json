@@ -1,0 +1,17 @@
+{
+  "id": "tc_104",
+  "name": "松竹",
+  "category": "mrt_station",
+  "networkID": "taichung_mrt",
+  "lineCodes": null,
+  "stationCode": "104",
+  "latitude": 24.18073,
+  "longitude": 120.701397,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺中捷運松竹站（104）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "tp_G13",
+  "name": "北門",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "G"
+  ],
+  "stationCode": "G13",
+  "latitude": 25.049399,
+  "longitude": 121.510329,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運北門站（G13）",
+  "action": "fogErase",
+  "unlock": null
+}

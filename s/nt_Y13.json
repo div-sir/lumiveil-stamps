@@ -1,0 +1,19 @@
+{
+  "id": "nt_Y13",
+  "name": "橋和",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "Y"
+  ],
+  "stationCode": "Y13",
+  "latitude": 25.004604,
+  "longitude": 121.490246,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運橋和站（Y13）",
+  "action": "fogErase",
+  "unlock": null
+}

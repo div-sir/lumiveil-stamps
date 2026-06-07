@@ -1,0 +1,19 @@
+{
+  "id": "ks_O10",
+  "name": "衛武營",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O10",
+  "latitude": 22.625189,
+  "longitude": 120.340799,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運衛武營站（O10）",
+  "action": "fogErase",
+  "unlock": null
+}

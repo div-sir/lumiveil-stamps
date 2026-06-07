@@ -1,0 +1,17 @@
+{
+  "id": "tra_sanmin",
+  "name": "三民",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "6120",
+  "latitude": 23.424664,
+  "longitude": 121.345241,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵三民站",
+  "action": "fogErase",
+  "unlock": null
+}

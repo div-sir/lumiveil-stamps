@@ -1,0 +1,19 @@
+{
+  "id": "ty_A13",
+  "name": "機場第二航廈",
+  "category": "mrt_station",
+  "networkID": "taoyuan_mrt",
+  "lineCodes": [
+    "A"
+  ],
+  "stationCode": "A13",
+  "latitude": 25.077227,
+  "longitude": 121.232256,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "桃園捷運機場第二航廈站（A13）",
+  "action": "fogErase",
+  "unlock": null
+}

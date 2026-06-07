@@ -1,0 +1,17 @@
+{
+  "id": "tra_xishi",
+  "name": "西勢",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "5030",
+  "latitude": 22.616244,
+  "longitude": 120.526511,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵西勢站",
+  "action": "fogErase",
+  "unlock": null
+}

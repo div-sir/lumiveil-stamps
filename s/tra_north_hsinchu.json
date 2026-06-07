@@ -1,0 +1,17 @@
+{
+  "id": "tra_north_hsinchu",
+  "name": "北新竹",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1190",
+  "latitude": 24.80863,
+  "longitude": 120.98379,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵北新竹站",
+  "action": "fogErase",
+  "unlock": null
+}

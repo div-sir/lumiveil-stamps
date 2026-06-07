@@ -1,0 +1,17 @@
+{
+  "id": "tra_nanke",
+  "name": "南科",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4180",
+  "latitude": 23.107245,
+  "longitude": 120.301968,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵南科站",
+  "action": "fogErase",
+  "unlock": null
+}

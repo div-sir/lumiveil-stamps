@@ -1,0 +1,19 @@
+{
+  "id": "ks_R24",
+  "name": "岡山高醫",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R24",
+  "latitude": 22.780747,
+  "longitude": 120.30173,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運岡山高醫站（R24）",
+  "action": "fogErase",
+  "unlock": null
+}

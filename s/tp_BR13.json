@@ -1,0 +1,19 @@
+{
+  "id": "tp_BR13",
+  "name": "松山機場",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BR"
+  ],
+  "stationCode": "BR13",
+  "latitude": 25.063086,
+  "longitude": 121.551614,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運松山機場站（BR13）",
+  "action": "fogErase",
+  "unlock": null
+}

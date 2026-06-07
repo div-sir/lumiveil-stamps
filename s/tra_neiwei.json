@@ -1,0 +1,17 @@
+{
+  "id": "tra_neiwei",
+  "name": "內惟",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4360",
+  "latitude": 22.665879,
+  "longitude": 120.286979,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵內惟站",
+  "action": "fogErase",
+  "unlock": null
+}

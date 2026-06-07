@@ -1,0 +1,17 @@
+{
+  "id": "tra_tongxiao",
+  "name": "通霄",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "2170",
+  "latitude": 24.49175,
+  "longitude": 120.678372,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵通霄站",
+  "action": "fogErase",
+  "unlock": null
+}

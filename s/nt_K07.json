@@ -1,0 +1,19 @@
+{
+  "id": "nt_K07",
+  "name": "陽光運動公園",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "K"
+  ],
+  "stationCode": "K07",
+  "latitude": 24.972309,
+  "longitude": 121.519511,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運陽光運動公園站（K07）",
+  "action": "fogErase",
+  "unlock": null
+}

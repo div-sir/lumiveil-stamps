@@ -1,0 +1,17 @@
+{
+  "id": "tra_houtong",
+  "name": "猴硐",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7350",
+  "latitude": 25.087019,
+  "longitude": 121.827214,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵猴硐站",
+  "action": "fogErase",
+  "unlock": null
+}

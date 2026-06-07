@@ -1,0 +1,17 @@
+{
+  "id": "tra_longjing",
+  "name": "龍井",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "2240",
+  "latitude": 24.197532,
+  "longitude": 120.543139,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵龍井站",
+  "action": "fogErase",
+  "unlock": null
+}

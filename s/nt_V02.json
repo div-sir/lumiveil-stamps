@@ -1,0 +1,19 @@
+{
+  "id": "nt_V02",
+  "name": "竿蓁林",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "V"
+  ],
+  "stationCode": "V02",
+  "latitude": 25.162182,
+  "longitude": 121.456225,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運竿蓁林站（V02）",
+  "action": "fogErase",
+  "unlock": null
+}

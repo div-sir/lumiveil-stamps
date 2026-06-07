@@ -1,0 +1,17 @@
+{
+  "id": "tra_fine_art_museum",
+  "name": "美術館",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4370",
+  "latitude": 22.651987,
+  "longitude": 120.281551,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵美術館站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_yangmei",
+  "name": "楊梅",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1120",
+  "latitude": 24.914352,
+  "longitude": 121.146507,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵楊梅站",
+  "action": "fogErase",
+  "unlock": null
+}

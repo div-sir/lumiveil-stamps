@@ -1,0 +1,19 @@
+{
+  "id": "ks_R8",
+  "name": "三多商圈",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R8",
+  "latitude": 22.614153,
+  "longitude": 120.304422,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運三多商圈站（R8）",
+  "action": "fogErase",
+  "unlock": null
+}

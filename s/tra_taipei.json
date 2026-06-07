@@ -1,0 +1,17 @@
+{
+  "id": "tra_taipei",
+  "name": "臺北",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1000",
+  "latitude": 25.047931,
+  "longitude": 121.517005,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵臺北站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_fangye",
+  "name": "枋野",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": null,
+  "latitude": 22.280872,
+  "longitude": 120.716994,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵枋野站",
+  "action": "fogErase",
+  "unlock": null
+}

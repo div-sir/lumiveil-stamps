@@ -1,0 +1,17 @@
+{
+  "id": "tra_science_and_technology_museum",
+  "name": "科工館",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4420",
+  "latitude": 22.637062,
+  "longitude": 120.326278,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵科工館站",
+  "action": "fogErase",
+  "unlock": null
+}

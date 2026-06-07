@@ -1,0 +1,17 @@
+{
+  "id": "tra_rende",
+  "name": "仁德",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4260",
+  "latitude": 22.923396,
+  "longitude": 120.240518,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵仁德站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tc_113",
+  "name": "南屯",
+  "category": "mrt_station",
+  "networkID": "taichung_mrt",
+  "lineCodes": null,
+  "stationCode": "113",
+  "latitude": 24.140549,
+  "longitude": 120.646692,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺中捷運南屯站（113）",
+  "action": "fogErase",
+  "unlock": null
+}

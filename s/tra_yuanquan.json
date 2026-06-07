@@ -1,0 +1,17 @@
+{
+  "id": "tra_yuanquan",
+  "name": "源泉",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3431",
+  "latitude": 23.798483,
+  "longitude": 120.642133,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵源泉站",
+  "action": "fogErase",
+  "unlock": null
+}

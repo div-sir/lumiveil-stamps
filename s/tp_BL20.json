@@ -1,0 +1,19 @@
+{
+  "id": "tp_BL20",
+  "name": "後山埤",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BL"
+  ],
+  "stationCode": "BL20",
+  "latitude": 25.044741,
+  "longitude": 121.582322,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運後山埤站（BL20）",
+  "action": "fogErase",
+  "unlock": null
+}

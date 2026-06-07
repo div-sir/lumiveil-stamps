@@ -1,0 +1,19 @@
+{
+  "id": "tp_BR23",
+  "name": "南港軟體園區",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BR"
+  ],
+  "stationCode": "BR23",
+  "latitude": 25.059946,
+  "longitude": 121.615897,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運南港軟體園區站（BR23）",
+  "action": "fogErase",
+  "unlock": null
+}

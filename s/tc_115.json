@@ -1,0 +1,17 @@
+{
+  "id": "tc_115",
+  "name": "大慶",
+  "category": "mrt_station",
+  "networkID": "taichung_mrt",
+  "lineCodes": null,
+  "stationCode": "115",
+  "latitude": 24.119056,
+  "longitude": 120.647504,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺中捷運大慶站（115）",
+  "action": "fogErase",
+  "unlock": null
+}

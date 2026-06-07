@@ -1,0 +1,19 @@
+{
+  "id": "tp_R23",
+  "name": "復興崗",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R23",
+  "latitude": 25.13749,
+  "longitude": 121.485498,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運復興崗站（R23）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_minzu",
+  "name": "民族",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4410",
+  "latitude": 22.6387,
+  "longitude": 120.315096,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵民族站",
+  "action": "fogErase",
+  "unlock": null
+}

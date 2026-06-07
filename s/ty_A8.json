@@ -1,0 +1,19 @@
+{
+  "id": "ty_A8",
+  "name": "長庚醫院",
+  "category": "mrt_station",
+  "networkID": "taoyuan_mrt",
+  "lineCodes": [
+    "A"
+  ],
+  "stationCode": "A8",
+  "latitude": 25.060474,
+  "longitude": 121.370796,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "桃園捷運長庚醫院站（A8）",
+  "action": "fogErase",
+  "unlock": null
+}

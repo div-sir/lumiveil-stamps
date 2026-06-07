@@ -1,0 +1,17 @@
+{
+  "id": "tra_jingmei",
+  "name": "景美",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7020",
+  "latitude": 24.090395,
+  "longitude": 121.610607,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵景美站",
+  "action": "fogErase",
+  "unlock": null
+}

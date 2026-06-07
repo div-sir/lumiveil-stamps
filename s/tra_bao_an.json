@@ -1,0 +1,17 @@
+{
+  "id": "tra_bao_an",
+  "name": "保安",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4250",
+  "latitude": 22.933044,
+  "longitude": 120.231705,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵保安站",
+  "action": "fogErase",
+  "unlock": null
+}

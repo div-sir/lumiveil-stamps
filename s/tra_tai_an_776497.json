@@ -1,0 +1,17 @@
+{
+  "id": "tra_tai_an_776497",
+  "name": "泰安",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3210",
+  "latitude": 24.331219,
+  "longitude": 120.741782,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵泰安站",
+  "action": "fogErase",
+  "unlock": null
+}

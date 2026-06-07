@@ -1,0 +1,19 @@
+{
+  "id": "nt_Y08",
+  "name": "十四張",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "Y"
+  ],
+  "stationCode": "Y08",
+  "latitude": 24.98447,
+  "longitude": 121.527589,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運十四張站（Y08）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_jialu",
+  "name": "加祿",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "5130",
+  "latitude": 22.330937,
+  "longitude": 120.624979,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵加祿站",
+  "action": "fogErase",
+  "unlock": null
+}

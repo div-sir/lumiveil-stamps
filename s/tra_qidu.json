@@ -1,0 +1,17 @@
+{
+  "id": "tra_qidu",
+  "name": "七堵",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "930",
+  "latitude": 25.092975,
+  "longitude": 121.713857,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵七堵站",
+  "action": "fogErase",
+  "unlock": null
+}

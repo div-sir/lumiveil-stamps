@@ -1,0 +1,20 @@
+{
+  "id": "tp_R08",
+  "name": "中正紀念堂",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "R",
+    "G"
+  ],
+  "stationCode": "R08;G10",
+  "latitude": 25.033394,
+  "longitude": 121.517762,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運中正紀念堂站（R08）",
+  "action": "fogErase",
+  "unlock": null
+}

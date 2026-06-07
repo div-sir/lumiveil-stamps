@@ -1,0 +1,17 @@
+{
+  "id": "tra_fangliao",
+  "name": "枋寮",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "5120",
+  "latitude": 22.368249,
+  "longitude": 120.595289,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵枋寮站",
+  "action": "fogErase",
+  "unlock": null
+}

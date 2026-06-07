@@ -1,0 +1,17 @@
+{
+  "id": "tra_houbi",
+  "name": "後壁",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4110",
+  "latitude": 23.366149,
+  "longitude": 120.360352,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵後壁站",
+  "action": "fogErase",
+  "unlock": null
+}

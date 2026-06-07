@@ -1,0 +1,17 @@
+{
+  "id": "tra_dashan",
+  "name": "大山",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "2120",
+  "latitude": 24.645692,
+  "longitude": 120.80363,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵大山站",
+  "action": "fogErase",
+  "unlock": null
+}

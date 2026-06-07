@@ -1,0 +1,19 @@
+{
+  "id": "nt_V09",
+  "name": "濱海沙崙",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "V"
+  ],
+  "stationCode": "V09",
+  "latitude": 25.190465,
+  "longitude": 121.431635,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運濱海沙崙站（V09）",
+  "action": "fogErase",
+  "unlock": null
+}

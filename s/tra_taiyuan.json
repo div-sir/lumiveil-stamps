@@ -1,0 +1,17 @@
+{
+  "id": "tra_taiyuan",
+  "name": "太原",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3280",
+  "latitude": 24.16419,
+  "longitude": 120.699952,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵太原站",
+  "action": "fogErase",
+  "unlock": null
+}

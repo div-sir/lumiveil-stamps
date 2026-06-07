@@ -1,0 +1,19 @@
+{
+  "id": "tp_BL19",
+  "name": "永春",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BL"
+  ],
+  "stationCode": "BL19",
+  "latitude": 25.040876,
+  "longitude": 121.575705,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運永春站（BL19）",
+  "action": "fogErase",
+  "unlock": null
+}

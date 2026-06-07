@@ -1,0 +1,17 @@
+{
+  "id": "tra_nangang",
+  "name": "南港",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "980",
+  "latitude": 25.052869,
+  "longitude": 121.607258,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵南港站",
+  "action": "fogErase",
+  "unlock": null
+}

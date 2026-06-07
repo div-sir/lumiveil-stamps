@@ -1,0 +1,17 @@
+{
+  "id": "tra_ruisui",
+  "name": "瑞穗",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "6130",
+  "latitude": 23.497742,
+  "longitude": 121.376567,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵瑞穗站",
+  "action": "fogErase",
+  "unlock": null
+}

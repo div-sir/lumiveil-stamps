@@ -1,0 +1,17 @@
+{
+  "id": "tra_linfengying",
+  "name": "林鳳營",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4140",
+  "latitude": 23.242596,
+  "longitude": 120.321134,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵林鳳營站",
+  "action": "fogErase",
+  "unlock": null
+}

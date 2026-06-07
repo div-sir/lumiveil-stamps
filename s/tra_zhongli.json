@@ -1,0 +1,17 @@
+{
+  "id": "tra_zhongli",
+  "name": "中壢",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1100",
+  "latitude": 24.953317,
+  "longitude": 121.22616,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵中壢站",
+  "action": "fogErase",
+  "unlock": null
+}

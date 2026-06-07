@@ -1,0 +1,19 @@
+{
+  "id": "tp_O14",
+  "name": "菜寮",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O14",
+  "latitude": 25.060268,
+  "longitude": 121.492105,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運菜寮站（O14）",
+  "action": "fogErase",
+  "unlock": null
+}

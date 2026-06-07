@@ -1,0 +1,17 @@
+{
+  "id": "tra_jiuzantou",
+  "name": "九讚頭",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1205",
+  "latitude": 24.720399,
+  "longitude": 121.135986,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵九讚頭站",
+  "action": "fogErase",
+  "unlock": null
+}

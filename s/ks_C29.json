@@ -1,0 +1,19 @@
+{
+  "id": "ks_C29",
+  "name": "樹德家商",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C29",
+  "latitude": 22.643816,
+  "longitude": 120.32633,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運樹德家商站（C29）",
+  "action": "fogErase",
+  "unlock": null
+}

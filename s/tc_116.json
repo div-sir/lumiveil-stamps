@@ -1,0 +1,17 @@
+{
+  "id": "tc_116",
+  "name": "九張犁",
+  "category": "mrt_station",
+  "networkID": "taichung_mrt",
+  "lineCodes": null,
+  "stationCode": "116",
+  "latitude": 24.114382,
+  "longitude": 120.639905,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺中捷運九張犁站（116）",
+  "action": "fogErase",
+  "unlock": null
+}

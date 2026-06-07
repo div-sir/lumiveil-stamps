@@ -1,0 +1,17 @@
+{
+  "id": "tra_zhixue",
+  "name": "志學",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "6240",
+  "latitude": 23.907817,
+  "longitude": 121.529281,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵志學站",
+  "action": "fogErase",
+  "unlock": null
+}

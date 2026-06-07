@@ -1,0 +1,19 @@
+{
+  "id": "ks_R23",
+  "name": "橋頭火車站",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R23",
+  "latitude": 22.760932,
+  "longitude": 120.310693,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運橋頭火車站站（R23）",
+  "action": "fogErase",
+  "unlock": null
+}

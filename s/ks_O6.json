@@ -1,0 +1,19 @@
+{
+  "id": "ks_O6",
+  "name": "信義國小",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O6",
+  "latitude": 22.630727,
+  "longitude": 120.311452,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運信義國小站（O6）",
+  "action": "fogErase",
+  "unlock": null
+}

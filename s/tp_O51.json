@@ -1,0 +1,19 @@
+{
+  "id": "tp_O51",
+  "name": "三和國中",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O51",
+  "latitude": 25.076814,
+  "longitude": 121.486378,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運三和國中站（O51）",
+  "action": "fogErase",
+  "unlock": null
+}

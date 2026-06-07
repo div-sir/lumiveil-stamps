@@ -1,0 +1,19 @@
+{
+  "id": "ty_A17",
+  "name": "領航",
+  "category": "mrt_station",
+  "networkID": "taoyuan_mrt",
+  "lineCodes": [
+    "A"
+  ],
+  "stationCode": "A17",
+  "latitude": 25.024101,
+  "longitude": 121.221094,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "桃園捷運領航站（A17）",
+  "action": "fogErase",
+  "unlock": null
+}

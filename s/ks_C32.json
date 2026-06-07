@@ -1,0 +1,19 @@
+{
+  "id": "ks_C32",
+  "name": "凱旋公園",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C32",
+  "latitude": 22.629413,
+  "longitude": 120.322824,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運凱旋公園站（C32）",
+  "action": "fogErase",
+  "unlock": null
+}

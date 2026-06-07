@@ -1,0 +1,19 @@
+{
+  "id": "ks_C5",
+  "name": "夢時代",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C5",
+  "latitude": 22.595005,
+  "longitude": 120.304914,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運夢時代站（C5）",
+  "action": "fogErase",
+  "unlock": null
+}

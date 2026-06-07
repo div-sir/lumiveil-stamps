@@ -1,0 +1,17 @@
+{
+  "id": "tra_qingshui",
+  "name": "清水",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "2220",
+  "latitude": 24.263526,
+  "longitude": 120.56884,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵清水站",
+  "action": "fogErase",
+  "unlock": null
+}

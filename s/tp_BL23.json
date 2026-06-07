@@ -1,0 +1,19 @@
+{
+  "id": "tp_BL23",
+  "name": "南港展覽館",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BL"
+  ],
+  "stationCode": "BL23",
+  "latitude": 25.054569,
+  "longitude": 121.617219,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運南港展覽館站（BL23）",
+  "action": "fogErase",
+  "unlock": null
+}

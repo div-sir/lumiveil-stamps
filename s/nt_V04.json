@@ -1,0 +1,19 @@
+{
+  "id": "nt_V04",
+  "name": "淡江大學",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "V"
+  ],
+  "stationCode": "V04",
+  "latitude": 25.177076,
+  "longitude": 121.455977,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運淡江大學站（V04）",
+  "action": "fogErase",
+  "unlock": null
+}

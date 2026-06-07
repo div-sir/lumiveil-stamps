@@ -1,0 +1,17 @@
+{
+  "id": "tra_zhuifen",
+  "name": "追分",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "2260",
+  "latitude": 24.120227,
+  "longitude": 120.570124,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵追分站",
+  "action": "fogErase",
+  "unlock": null
+}

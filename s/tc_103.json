@@ -1,0 +1,17 @@
+{
+  "id": "tc_103",
+  "name": "舊社",
+  "category": "mrt_station",
+  "networkID": "taichung_mrt",
+  "lineCodes": null,
+  "stationCode": "103",
+  "latitude": 24.182334,
+  "longitude": 120.707311,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺中捷運舊社站（103）",
+  "action": "fogErase",
+  "unlock": null
+}

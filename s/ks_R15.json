@@ -1,0 +1,19 @@
+{
+  "id": "ks_R15",
+  "name": "生態園區",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R15",
+  "latitude": 22.676463,
+  "longitude": 120.306343,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運生態園區站（R15）",
+  "action": "fogErase",
+  "unlock": null
+}

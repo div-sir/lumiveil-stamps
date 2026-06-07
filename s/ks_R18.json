@@ -1,0 +1,19 @@
+{
+  "id": "ks_R18",
+  "name": "油廠國小",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R18",
+  "latitude": 22.708754,
+  "longitude": 120.302306,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運油廠國小站（R18）",
+  "action": "fogErase",
+  "unlock": null
+}

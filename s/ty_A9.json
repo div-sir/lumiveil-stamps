@@ -1,0 +1,19 @@
+{
+  "id": "ty_A9",
+  "name": "林口",
+  "category": "mrt_station",
+  "networkID": "taoyuan_mrt",
+  "lineCodes": [
+    "A"
+  ],
+  "stationCode": "A9",
+  "latitude": 25.065785,
+  "longitude": 121.361437,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "桃園捷運林口站（A9）",
+  "action": "fogErase",
+  "unlock": null
+}

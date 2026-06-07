@@ -1,0 +1,17 @@
+{
+  "id": "tra_nanzhou",
+  "name": "南州",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "5070",
+  "latitude": 22.491869,
+  "longitude": 120.512004,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵南州站",
+  "action": "fogErase",
+  "unlock": null
+}

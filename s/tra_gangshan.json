@@ -1,0 +1,17 @@
+{
+  "id": "tra_gangshan",
+  "name": "岡山",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4310",
+  "latitude": 22.792315,
+  "longitude": 120.300467,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵岡山站",
+  "action": "fogErase",
+  "unlock": null
+}

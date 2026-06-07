@@ -1,0 +1,17 @@
+{
+  "id": "tra_fuzhou",
+  "name": "浮洲",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1030",
+  "latitude": 25.004192,
+  "longitude": 121.444762,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵浮洲站",
+  "action": "fogErase",
+  "unlock": null
+}

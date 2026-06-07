@@ -1,0 +1,19 @@
+{
+  "id": "ks_R22",
+  "name": "青埔",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R22",
+  "latitude": 22.744407,
+  "longitude": 120.317724,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運青埔站（R22）",
+  "action": "fogErase",
+  "unlock": null
+}

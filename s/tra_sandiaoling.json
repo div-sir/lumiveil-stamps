@@ -1,0 +1,17 @@
+{
+  "id": "tra_sandiaoling",
+  "name": "三貂嶺",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7330",
+  "latitude": 25.066101,
+  "longitude": 121.822376,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵三貂嶺站",
+  "action": "fogErase",
+  "unlock": null
+}

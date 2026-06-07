@@ -1,0 +1,19 @@
+{
+  "id": "tp_O04",
+  "name": "頂溪",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O04",
+  "latitude": 25.013601,
+  "longitude": 121.515472,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運頂溪站（O04）",
+  "action": "fogErase",
+  "unlock": null
+}

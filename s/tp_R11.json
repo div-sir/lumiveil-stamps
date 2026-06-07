@@ -1,0 +1,20 @@
+{
+  "id": "tp_R11",
+  "name": "中山",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "R",
+    "G"
+  ],
+  "stationCode": "R11;G14",
+  "latitude": 25.052626,
+  "longitude": 121.520391,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運中山站（R11）",
+  "action": "fogErase",
+  "unlock": null
+}

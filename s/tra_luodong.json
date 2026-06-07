@@ -1,0 +1,17 @@
+{
+  "id": "tra_luodong",
+  "name": "羅東",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7160",
+  "latitude": 24.677978,
+  "longitude": 121.774599,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵羅東站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_ruifang",
+  "name": "瑞芳",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7360",
+  "latitude": 25.109011,
+  "longitude": 121.806558,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵瑞芳站",
+  "action": "fogErase",
+  "unlock": null
+}

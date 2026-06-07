@@ -1,0 +1,17 @@
+{
+  "id": "tra_dongzhu",
+  "name": "東竹",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "6090",
+  "latitude": 23.225984,
+  "longitude": 121.278258,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵東竹站",
+  "action": "fogErase",
+  "unlock": null
+}

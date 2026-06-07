@@ -1,0 +1,19 @@
+{
+  "id": "nt_Y17",
+  "name": "新埔民生",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "Y"
+  ],
+  "stationCode": "Y17",
+  "latitude": 25.026127,
+  "longitude": 121.466666,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運新埔民生站（Y17）",
+  "action": "fogErase",
+  "unlock": null
+}

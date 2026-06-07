@@ -1,0 +1,19 @@
+{
+  "id": "tp_O21",
+  "name": "迴龍",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O21",
+  "latitude": 25.022079,
+  "longitude": 121.411902,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運迴龍站（O21）",
+  "action": "fogErase",
+  "unlock": null
+}

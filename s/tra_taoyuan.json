@@ -1,0 +1,17 @@
+{
+  "id": "tra_taoyuan",
+  "name": "桃園",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1080",
+  "latitude": 24.988726,
+  "longitude": 121.313777,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵桃園站",
+  "action": "fogErase",
+  "unlock": null
+}

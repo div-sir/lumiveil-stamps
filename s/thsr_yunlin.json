@@ -1,0 +1,17 @@
+{
+  "id": "thsr_yunlin",
+  "name": "雲林",
+  "category": "thsr_station",
+  "networkID": "thsr",
+  "lineCodes": null,
+  "stationCode": null,
+  "latitude": 23.73652,
+  "longitude": 120.416158,
+  "gpsRadiusMeters": 250,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "台灣高鐵雲林站",
+  "action": "fogErase",
+  "unlock": null
+}

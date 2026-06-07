@@ -1,0 +1,17 @@
+{
+  "id": "tra_longxi",
+  "name": "瀧溪",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "5200",
+  "latitude": 22.460911,
+  "longitude": 120.942019,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵瀧溪站",
+  "action": "fogErase",
+  "unlock": null
+}

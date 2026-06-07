@@ -1,0 +1,17 @@
+{
+  "id": "tra_houlong",
+  "name": "後龍",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "2130",
+  "latitude": 24.616249,
+  "longitude": 120.787224,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵後龍站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_chongde",
+  "name": "崇德",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7040",
+  "latitude": 24.171734,
+  "longitude": 121.655688,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵崇德站",
+  "action": "fogErase",
+  "unlock": null
+}

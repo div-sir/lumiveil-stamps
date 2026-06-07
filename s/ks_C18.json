@@ -1,0 +1,19 @@
+{
+  "id": "ks_C18",
+  "name": "輕軌鼓山站",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C18",
+  "latitude": 22.642036,
+  "longitude": 120.281093,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運輕軌鼓山站站（C18）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_nan_ao",
+  "name": "南澳",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7090",
+  "latitude": 24.463079,
+  "longitude": 121.801342,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵南澳站",
+  "action": "fogErase",
+  "unlock": null
+}

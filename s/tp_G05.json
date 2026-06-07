@@ -1,0 +1,19 @@
+{
+  "id": "tp_G05",
+  "name": "景美",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "G"
+  ],
+  "stationCode": "G05",
+  "latitude": 24.992978,
+  "longitude": 121.54082,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運景美站（G05）",
+  "action": "fogErase",
+  "unlock": null
+}

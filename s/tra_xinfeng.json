@@ -1,0 +1,17 @@
+{
+  "id": "tra_xinfeng",
+  "name": "新豐",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1170",
+  "latitude": 24.869277,
+  "longitude": 120.996534,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵新豐站",
+  "action": "fogErase",
+  "unlock": null
+}

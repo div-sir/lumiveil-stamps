@@ -1,0 +1,19 @@
+{
+  "id": "tp_G17",
+  "name": "台北小巨蛋",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "G"
+  ],
+  "stationCode": "G17",
+  "latitude": 25.051686,
+  "longitude": 121.551499,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運台北小巨蛋站（G17）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_tanzi",
+  "name": "潭子",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3250",
+  "latitude": 24.212502,
+  "longitude": 120.705865,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵潭子站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_taichung_port",
+  "name": "臺中港",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "2210",
+  "latitude": 24.304341,
+  "longitude": 120.602681,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵臺中港站",
+  "action": "fogErase",
+  "unlock": null
+}

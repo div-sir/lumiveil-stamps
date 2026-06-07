@@ -1,0 +1,19 @@
+{
+  "id": "tp_BL07",
+  "name": "板橋",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BL"
+  ],
+  "stationCode": "BL07",
+  "latitude": 25.014499,
+  "longitude": 121.462992,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運板橋站（BL07）",
+  "action": "fogErase",
+  "unlock": null
+}

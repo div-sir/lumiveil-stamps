@@ -1,0 +1,19 @@
+{
+  "id": "nt_V03",
+  "name": "淡金鄧公",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "V"
+  ],
+  "stationCode": "V03",
+  "latitude": 25.169304,
+  "longitude": 121.460826,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運淡金鄧公站（V03）",
+  "action": "fogErase",
+  "unlock": null
+}

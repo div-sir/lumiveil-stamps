@@ -1,0 +1,17 @@
+{
+  "id": "tra_jiji",
+  "name": "集集",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3434",
+  "latitude": 23.826268,
+  "longitude": 120.784958,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵集集站",
+  "action": "fogErase",
+  "unlock": null
+}

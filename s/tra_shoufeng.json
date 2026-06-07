@@ -1,0 +1,17 @@
+{
+  "id": "tra_shoufeng",
+  "name": "壽豐",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "6220",
+  "latitude": 23.868919,
+  "longitude": 121.510811,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵壽豐站",
+  "action": "fogErase",
+  "unlock": null
+}

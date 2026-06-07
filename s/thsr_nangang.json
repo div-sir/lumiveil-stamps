@@ -1,0 +1,17 @@
+{
+  "id": "thsr_nangang",
+  "name": "南港",
+  "category": "thsr_station",
+  "networkID": "thsr",
+  "lineCodes": null,
+  "stationCode": null,
+  "latitude": 25.05327,
+  "longitude": 121.607303,
+  "gpsRadiusMeters": 250,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "台灣高鐵南港站",
+  "action": "fogErase",
+  "unlock": null
+}

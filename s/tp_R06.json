@@ -1,0 +1,19 @@
+{
+  "id": "tp_R06",
+  "name": "大安森林公園",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R06",
+  "latitude": 25.033562,
+  "longitude": 121.535279,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運大安森林公園站（R06）",
+  "action": "fogErase",
+  "unlock": null
+}

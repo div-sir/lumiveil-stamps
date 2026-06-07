@@ -1,0 +1,19 @@
+{
+  "id": "tp_G04",
+  "name": "大坪林",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "G"
+  ],
+  "stationCode": "G04",
+  "latitude": 24.98293,
+  "longitude": 121.541329,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運大坪林站（G04）",
+  "action": "fogErase",
+  "unlock": null
+}

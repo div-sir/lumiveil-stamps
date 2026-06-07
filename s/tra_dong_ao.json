@@ -1,0 +1,17 @@
+{
+  "id": "tra_dong_ao",
+  "name": "東澳",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7100",
+  "latitude": 24.517779,
+  "longitude": 121.830712,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵東澳站",
+  "action": "fogErase",
+  "unlock": null
+}

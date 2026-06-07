@@ -1,0 +1,19 @@
+{
+  "id": "ks_R20",
+  "name": "後勁",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R20",
+  "latitude": 22.72235,
+  "longitude": 120.316255,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運後勁站（R20）",
+  "action": "fogErase",
+  "unlock": null
+}

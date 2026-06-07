@@ -1,0 +1,17 @@
+{
+  "id": "tra_toujiacuo",
+  "name": "頭家厝",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3260",
+  "latitude": 24.195261,
+  "longitude": 120.703942,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵頭家厝站",
+  "action": "fogErase",
+  "unlock": null
+}

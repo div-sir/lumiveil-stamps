@@ -1,0 +1,17 @@
+{
+  "id": "tra_chiayi",
+  "name": "嘉義",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4080",
+  "latitude": 23.479904,
+  "longitude": 120.441584,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵嘉義站",
+  "action": "fogErase",
+  "unlock": null
+}

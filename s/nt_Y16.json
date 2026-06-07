@@ -1,0 +1,19 @@
+{
+  "id": "nt_Y16",
+  "name": "板橋",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "Y"
+  ],
+  "stationCode": "Y16",
+  "latitude": 25.015187,
+  "longitude": 121.464592,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運板橋站（Y16）",
+  "action": "fogErase",
+  "unlock": null
+}

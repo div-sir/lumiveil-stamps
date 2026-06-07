@@ -1,0 +1,17 @@
+{
+  "id": "tra_gushan",
+  "name": "鼓山",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4380",
+  "latitude": 22.641978,
+  "longitude": 120.280926,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵鼓山站",
+  "action": "fogErase",
+  "unlock": null
+}

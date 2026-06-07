@@ -1,0 +1,17 @@
+{
+  "id": "tra_nanping",
+  "name": "南平",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "6190",
+  "latitude": 23.782428,
+  "longitude": 121.458093,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵南平站",
+  "action": "fogErase",
+  "unlock": null
+}

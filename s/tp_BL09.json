@@ -1,0 +1,19 @@
+{
+  "id": "tp_BL09",
+  "name": "江子翠",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BL"
+  ],
+  "stationCode": "BL09",
+  "latitude": 25.030424,
+  "longitude": 121.472778,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運江子翠站（BL09）",
+  "action": "fogErase",
+  "unlock": null
+}

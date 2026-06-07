@@ -1,0 +1,17 @@
+{
+  "id": "tra_dadu",
+  "name": "大肚",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "2250",
+  "latitude": 24.154332,
+  "longitude": 120.542181,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵大肚站",
+  "action": "fogErase",
+  "unlock": null
+}

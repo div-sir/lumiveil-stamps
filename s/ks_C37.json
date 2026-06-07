@@ -1,0 +1,19 @@
+{
+  "id": "ks_C37",
+  "name": "輕軌機廠",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C37",
+  "latitude": 22.608476,
+  "longitude": 120.326052,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運輕軌機廠站（C37）",
+  "action": "fogErase",
+  "unlock": null
+}

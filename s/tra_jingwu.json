@@ -1,0 +1,17 @@
+{
+  "id": "tra_jingwu",
+  "name": "精武",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3290",
+  "latitude": 24.149326,
+  "longitude": 120.697801,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵精武站",
+  "action": "fogErase",
+  "unlock": null
+}

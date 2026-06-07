@@ -1,0 +1,17 @@
+{
+  "id": "thsr_taichung",
+  "name": "台中",
+  "category": "thsr_station",
+  "networkID": "thsr",
+  "lineCodes": null,
+  "stationCode": null,
+  "latitude": 24.112099,
+  "longitude": 120.615938,
+  "gpsRadiusMeters": 250,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "台灣高鐵台中站",
+  "action": "fogErase",
+  "unlock": null
+}

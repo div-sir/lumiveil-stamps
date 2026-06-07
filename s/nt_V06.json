@@ -1,0 +1,19 @@
+{
+  "id": "nt_V06",
+  "name": "新市一路",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "V"
+  ],
+  "stationCode": "V06",
+  "latitude": 25.183898,
+  "longitude": 121.448123,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運新市一路站（V06）",
+  "action": "fogErase",
+  "unlock": null
+}

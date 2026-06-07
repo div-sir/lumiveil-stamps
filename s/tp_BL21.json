@@ -1,0 +1,19 @@
+{
+  "id": "tp_BL21",
+  "name": "昆陽",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BL"
+  ],
+  "stationCode": "BL21",
+  "latitude": 25.05049,
+  "longitude": 121.593316,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運昆陽站（BL21）",
+  "action": "fogErase",
+  "unlock": null
+}

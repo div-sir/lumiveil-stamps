@@ -1,0 +1,17 @@
+{
+  "id": "tra_yingke",
+  "name": "鶯歌",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1070",
+  "latitude": 24.954554,
+  "longitude": 121.355158,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵鶯歌站",
+  "action": "fogErase",
+  "unlock": null
+}

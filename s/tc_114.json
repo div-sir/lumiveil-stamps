@@ -1,0 +1,17 @@
+{
+  "id": "tc_114",
+  "name": "豐樂公園",
+  "category": "mrt_station",
+  "networkID": "taichung_mrt",
+  "lineCodes": null,
+  "stationCode": "114",
+  "latitude": 24.13236,
+  "longitude": 120.646441,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺中捷運豐樂公園站（114）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "thsr_banqiao",
+  "name": "板橋",
+  "category": "thsr_station",
+  "networkID": "thsr",
+  "lineCodes": null,
+  "stationCode": null,
+  "latitude": 25.013705,
+  "longitude": 121.464262,
+  "gpsRadiusMeters": 250,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "台灣高鐵板橋站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_yuli",
+  "name": "玉里",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "6110",
+  "latitude": 23.331558,
+  "longitude": 121.311556,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵玉里站",
+  "action": "fogErase",
+  "unlock": null
+}

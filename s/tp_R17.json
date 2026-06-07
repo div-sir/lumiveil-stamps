@@ -1,0 +1,19 @@
+{
+  "id": "tp_R17",
+  "name": "芝山",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R17",
+  "latitude": 25.103003,
+  "longitude": 121.52252,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運芝山站（R17）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "tp_BR24",
+  "name": "南港展覽館",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BR"
+  ],
+  "stationCode": "BR24",
+  "latitude": 25.055316,
+  "longitude": 121.617896,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運南港展覽館站（BR24）",
+  "action": "fogErase",
+  "unlock": null
+}

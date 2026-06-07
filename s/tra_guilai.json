@@ -1,0 +1,17 @@
+{
+  "id": "tra_guilai",
+  "name": "歸來",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "5010",
+  "latitude": 22.652275,
+  "longitude": 120.502794,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵歸來站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tp_BR10",
+  "name": "忠孝復興",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BR",
+    "BL"
+  ],
+  "stationCode": "BR10;BL15",
+  "latitude": 25.041541,
+  "longitude": 121.543771,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運忠孝復興站（BR10）",
+  "action": "fogErase",
+  "unlock": null
+}

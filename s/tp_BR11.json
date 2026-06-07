@@ -1,0 +1,20 @@
+{
+  "id": "tp_BR11",
+  "name": "南京復興",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BR",
+    "G"
+  ],
+  "stationCode": "BR11;G16",
+  "latitude": 25.051836,
+  "longitude": 121.543965,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運南京復興站（BR11）",
+  "action": "fogErase",
+  "unlock": null
+}

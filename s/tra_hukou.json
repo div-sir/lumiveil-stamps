@@ -1,0 +1,17 @@
+{
+  "id": "tra_hukou",
+  "name": "湖口",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1160",
+  "latitude": 24.902802,
+  "longitude": 121.043748,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵湖口站",
+  "action": "fogErase",
+  "unlock": null
+}

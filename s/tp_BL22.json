@@ -1,0 +1,19 @@
+{
+  "id": "tp_BL22",
+  "name": "南港",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BL"
+  ],
+  "stationCode": "BL22",
+  "latitude": 25.05209,
+  "longitude": 121.607192,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運南港站（BL22）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_beihu",
+  "name": "北湖",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1150",
+  "latitude": 24.922491,
+  "longitude": 121.0559,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵北湖站",
+  "action": "fogErase",
+  "unlock": null
+}

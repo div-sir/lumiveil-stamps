@@ -1,0 +1,17 @@
+{
+  "id": "tra_yilan",
+  "name": "宜蘭",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7190",
+  "latitude": 24.75456,
+  "longitude": 121.758311,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵宜蘭站",
+  "action": "fogErase",
+  "unlock": null
+}

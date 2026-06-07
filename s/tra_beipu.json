@@ -1,0 +1,17 @@
+{
+  "id": "tra_beipu",
+  "name": "北埔",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7010",
+  "latitude": 24.032615,
+  "longitude": 121.601317,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵北埔站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ks_OT1",
+  "name": "大寮",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "OT"
+  ],
+  "stationCode": "OT1",
+  "latitude": 22.622117,
+  "longitude": 120.390589,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運大寮站（OT1）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ty_A4",
+  "name": "新莊副都心",
+  "category": "mrt_station",
+  "networkID": "taoyuan_mrt",
+  "lineCodes": [
+    "A"
+  ],
+  "stationCode": "A4",
+  "latitude": 25.05921,
+  "longitude": 121.445789,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "桃園捷運新莊副都心站（A4）",
+  "action": "fogErase",
+  "unlock": null
+}

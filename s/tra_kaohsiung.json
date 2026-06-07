@@ -1,0 +1,17 @@
+{
+  "id": "tra_kaohsiung",
+  "name": "高雄",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4400",
+  "latitude": 22.639532,
+  "longitude": 120.302559,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵高雄站",
+  "action": "fogErase",
+  "unlock": null
+}

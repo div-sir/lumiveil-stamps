@@ -1,0 +1,19 @@
+{
+  "id": "ks_C35",
+  "name": "凱旋武昌",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C35",
+  "latitude": 22.616892,
+  "longitude": 120.326827,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運凱旋武昌站（C35）",
+  "action": "fogErase",
+  "unlock": null
+}

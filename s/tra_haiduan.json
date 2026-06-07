@@ -1,0 +1,17 @@
+{
+  "id": "tra_haiduan",
+  "name": "海端",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "6060",
+  "latitude": 23.102121,
+  "longitude": 121.177301,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵海端站",
+  "action": "fogErase",
+  "unlock": null
+}

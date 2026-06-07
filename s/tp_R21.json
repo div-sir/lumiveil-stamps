@@ -1,0 +1,19 @@
+{
+  "id": "tp_R21",
+  "name": "奇岩",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R21",
+  "latitude": 25.125603,
+  "longitude": 121.501137,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運奇岩站（R21）",
+  "action": "fogErase",
+  "unlock": null
+}

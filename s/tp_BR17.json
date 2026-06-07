@@ -1,0 +1,19 @@
+{
+  "id": "tp_BR17",
+  "name": "港墘",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BR"
+  ],
+  "stationCode": "BR17",
+  "latitude": 25.080073,
+  "longitude": 121.575203,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運港墘站（BR17）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_yuanli",
+  "name": "苑裡",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "2180",
+  "latitude": 24.443494,
+  "longitude": 120.651208,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵苑裡站",
+  "action": "fogErase",
+  "unlock": null
+}

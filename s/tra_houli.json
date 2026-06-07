@@ -1,0 +1,17 @@
+{
+  "id": "tra_houli",
+  "name": "后里",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3220",
+  "latitude": 24.309206,
+  "longitude": 120.733107,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵后里站",
+  "action": "fogErase",
+  "unlock": null
+}

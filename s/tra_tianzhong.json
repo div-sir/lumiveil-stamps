@@ -1,0 +1,17 @@
+{
+  "id": "tra_tianzhong",
+  "name": "田中",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3420",
+  "latitude": 23.858369,
+  "longitude": 120.591569,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵田中站",
+  "action": "fogErase",
+  "unlock": null
+}

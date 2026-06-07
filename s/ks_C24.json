@@ -1,0 +1,19 @@
+{
+  "id": "ks_C24",
+  "name": "愛河之心",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C24",
+  "latitude": 22.656171,
+  "longitude": 120.303253,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運愛河之心站（C24）",
+  "action": "fogErase",
+  "unlock": null
+}

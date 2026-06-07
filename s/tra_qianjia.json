@@ -1,0 +1,17 @@
+{
+  "id": "tra_qianjia",
+  "name": "千甲",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1191",
+  "latitude": 24.806617,
+  "longitude": 121.00341,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵千甲站",
+  "action": "fogErase",
+  "unlock": null
+}

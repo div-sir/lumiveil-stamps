@@ -1,0 +1,17 @@
+{
+  "id": "tra_chaozhou",
+  "name": "潮州",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "5050",
+  "latitude": 22.549979,
+  "longitude": 120.536062,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵潮州站",
+  "action": "fogErase",
+  "unlock": null
+}

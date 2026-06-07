@@ -1,0 +1,19 @@
+{
+  "id": "tp_BR01",
+  "name": "動物園",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BR"
+  ],
+  "stationCode": "BR01",
+  "latitude": 24.998317,
+  "longitude": 121.579448,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運動物園站（BR01）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "nt_K08",
+  "name": "新和國小",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "K"
+  ],
+  "stationCode": "K08",
+  "latitude": 24.983442,
+  "longitude": 121.518589,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運新和國小站（K08）",
+  "action": "fogErase",
+  "unlock": null
+}

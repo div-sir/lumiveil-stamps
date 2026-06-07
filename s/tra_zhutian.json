@@ -1,0 +1,17 @@
+{
+  "id": "tra_zhutian",
+  "name": "竹田",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "5040",
+  "latitude": 22.586577,
+  "longitude": 120.539751,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵竹田站",
+  "action": "fogErase",
+  "unlock": null
+}

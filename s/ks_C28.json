@@ -1,0 +1,19 @@
+{
+  "id": "ks_C28",
+  "name": "高雄高工",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C28",
+  "latitude": 22.649795,
+  "longitude": 120.324155,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運高雄高工站（C28）",
+  "action": "fogErase",
+  "unlock": null
+}

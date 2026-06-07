@@ -1,0 +1,19 @@
+{
+  "id": "ks_C25",
+  "name": "新上國小",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C25",
+  "latitude": 22.656642,
+  "longitude": 120.308804,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運新上國小站（C25）",
+  "action": "fogErase",
+  "unlock": null
+}

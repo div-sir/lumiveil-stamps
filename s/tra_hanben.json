@@ -1,0 +1,17 @@
+{
+  "id": "tra_hanben",
+  "name": "漢本",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7070",
+  "latitude": 24.333803,
+  "longitude": 121.768126,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵漢本站",
+  "action": "fogErase",
+  "unlock": null
+}

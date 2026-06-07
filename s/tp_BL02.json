@@ -1,0 +1,19 @@
+{
+  "id": "tp_BL02",
+  "name": "永寧",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BL"
+  ],
+  "stationCode": "BL02",
+  "latitude": 24.966872,
+  "longitude": 121.43627,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運永寧站（BL02）",
+  "action": "fogErase",
+  "unlock": null
+}

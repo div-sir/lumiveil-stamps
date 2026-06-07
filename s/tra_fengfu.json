@@ -1,0 +1,17 @@
+{
+  "id": "tra_fengfu",
+  "name": "豐富",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3150",
+  "latitude": 24.604399,
+  "longitude": 120.826295,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵豐富站",
+  "action": "fogErase",
+  "unlock": null
+}

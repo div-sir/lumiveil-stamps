@@ -1,0 +1,19 @@
+{
+  "id": "ks_O9",
+  "name": "苓雅運動園區",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O9",
+  "latitude": 22.627251,
+  "longitude": 120.33464,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運苓雅運動園區站（O9）",
+  "action": "fogErase",
+  "unlock": null
+}

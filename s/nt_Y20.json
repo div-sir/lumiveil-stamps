@@ -1,0 +1,19 @@
+{
+  "id": "nt_Y20",
+  "name": "新北產業園區",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "Y"
+  ],
+  "stationCode": "Y20",
+  "latitude": 25.061269,
+  "longitude": 121.459809,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運新北產業園區站（Y20）",
+  "action": "fogErase",
+  "unlock": null
+}

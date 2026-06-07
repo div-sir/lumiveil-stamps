@@ -1,0 +1,17 @@
+{
+  "id": "tra_guanshan",
+  "name": "關山",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "6050",
+  "latitude": 23.045621,
+  "longitude": 121.164491,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵關山站",
+  "action": "fogErase",
+  "unlock": null
+}

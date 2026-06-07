@@ -1,0 +1,17 @@
+{
+  "id": "tra_xinzuoying",
+  "name": "新左營",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4340",
+  "latitude": 22.687568,
+  "longitude": 120.307352,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵新左營站",
+  "action": "fogErase",
+  "unlock": null
+}

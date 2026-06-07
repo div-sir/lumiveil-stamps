@@ -1,0 +1,17 @@
+{
+  "id": "tra_shetou",
+  "name": "社頭",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3410",
+  "latitude": 23.895825,
+  "longitude": 120.580485,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵社頭站",
+  "action": "fogErase",
+  "unlock": null
+}

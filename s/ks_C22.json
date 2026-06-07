@@ -1,0 +1,19 @@
+{
+  "id": "ks_C22",
+  "name": "聯合醫院",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C22",
+  "latitude": 22.654805,
+  "longitude": 120.291087,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運聯合醫院站（C22）",
+  "action": "fogErase",
+  "unlock": null
+}

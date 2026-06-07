@@ -1,0 +1,20 @@
+{
+  "id": "tp_O06",
+  "name": "東門",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "O",
+    "R"
+  ],
+  "stationCode": "O06;R07",
+  "latitude": 25.033842,
+  "longitude": 121.529258,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運東門站（O06）",
+  "action": "fogErase",
+  "unlock": null
+}

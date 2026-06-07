@@ -1,0 +1,19 @@
+{
+  "id": "ks_C21A",
+  "name": "內惟藝術中心",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C21A",
+  "latitude": 22.654969,
+  "longitude": 120.282841,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運內惟藝術中心站（C21A）",
+  "action": "fogErase",
+  "unlock": null
+}

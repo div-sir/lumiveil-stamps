@@ -1,0 +1,19 @@
+{
+  "id": "tp_BR20",
+  "name": "大湖公園",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BR"
+  ],
+  "stationCode": "BR20",
+  "latitude": 25.083761,
+  "longitude": 121.602341,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運大湖公園站（BR20）",
+  "action": "fogErase",
+  "unlock": null
+}

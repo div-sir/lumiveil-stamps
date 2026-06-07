@@ -1,0 +1,19 @@
+{
+  "id": "ks_C6",
+  "name": "經貿園區",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C6",
+  "latitude": 22.600896,
+  "longitude": 120.302638,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運經貿園區站（C6）",
+  "action": "fogErase",
+  "unlock": null
+}

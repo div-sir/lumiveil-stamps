@@ -1,0 +1,17 @@
+{
+  "id": "tra_dajia",
+  "name": "大甲",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "2200",
+  "latitude": 24.344254,
+  "longitude": 120.62729,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵大甲站",
+  "action": "fogErase",
+  "unlock": null
+}

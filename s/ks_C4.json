@@ -1,0 +1,19 @@
+{
+  "id": "ks_C4",
+  "name": "凱旋中華",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C4",
+  "latitude": 22.593615,
+  "longitude": 120.310536,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運凱旋中華站（C4）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "nt_V05",
+  "name": "淡金北新",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "V"
+  ],
+  "stationCode": "V05",
+  "latitude": 25.181214,
+  "longitude": 121.452165,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運淡金北新站（V05）",
+  "action": "fogErase",
+  "unlock": null
+}

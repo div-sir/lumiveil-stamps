@@ -1,0 +1,19 @@
+{
+  "id": "nt_Y09",
+  "name": "秀朗橋",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "Y"
+  ],
+  "stationCode": "Y09",
+  "latitude": 24.990331,
+  "longitude": 121.524901,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運秀朗橋站（Y09）",
+  "action": "fogErase",
+  "unlock": null
+}

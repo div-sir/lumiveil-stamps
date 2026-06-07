@@ -1,0 +1,19 @@
+{
+  "id": "tp_R25",
+  "name": "關渡",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R25",
+  "latitude": 25.125701,
+  "longitude": 121.467142,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運關渡站（R25）",
+  "action": "fogErase",
+  "unlock": null
+}

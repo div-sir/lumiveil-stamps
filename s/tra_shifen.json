@@ -1,0 +1,17 @@
+{
+  "id": "tra_shifen",
+  "name": "十分",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7332",
+  "latitude": 25.04109,
+  "longitude": 121.775247,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵十分站",
+  "action": "fogErase",
+  "unlock": null
+}

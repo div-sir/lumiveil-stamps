@@ -1,0 +1,17 @@
+{
+  "id": "thsr_changhua",
+  "name": "彰化",
+  "category": "thsr_station",
+  "networkID": "thsr",
+  "lineCodes": null,
+  "stationCode": null,
+  "latitude": 23.874154,
+  "longitude": 120.575195,
+  "gpsRadiusMeters": 250,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "台灣高鐵彰化站",
+  "action": "fogErase",
+  "unlock": null
+}

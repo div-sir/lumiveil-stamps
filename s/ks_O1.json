@@ -1,0 +1,19 @@
+{
+  "id": "ks_O1",
+  "name": "哈瑪星",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O1",
+  "latitude": 22.621369,
+  "longitude": 120.274805,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運哈瑪星站（O1）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_changhua",
+  "name": "彰化",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3360",
+  "latitude": 24.081673,
+  "longitude": 120.538205,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵彰化站",
+  "action": "fogErase",
+  "unlock": null
+}

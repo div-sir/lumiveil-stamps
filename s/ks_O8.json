@@ -1,0 +1,19 @@
+{
+  "id": "ks_O8",
+  "name": "五塊厝",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O8",
+  "latitude": 22.629475,
+  "longitude": 120.327648,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運五塊厝站（O8）",
+  "action": "fogErase",
+  "unlock": null
+}

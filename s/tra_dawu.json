@@ -1,0 +1,17 @@
+{
+  "id": "tra_dawu",
+  "name": "大武",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "5190",
+  "latitude": 22.365485,
+  "longitude": 120.900649,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵大武站",
+  "action": "fogErase",
+  "unlock": null
+}

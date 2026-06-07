@@ -1,0 +1,17 @@
+{
+  "id": "tra_dali",
+  "name": "大里",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7270",
+  "latitude": 24.966761,
+  "longitude": 121.922515,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵大里站",
+  "action": "fogErase",
+  "unlock": null
+}

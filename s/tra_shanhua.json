@@ -1,0 +1,17 @@
+{
+  "id": "tra_shanhua",
+  "name": "善化",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4170",
+  "latitude": 23.133037,
+  "longitude": 120.306622,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵善化站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "tp_BL17",
+  "name": "國父紀念館",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BL"
+  ],
+  "stationCode": "BL17",
+  "latitude": 25.041342,
+  "longitude": 121.557392,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運國父紀念館站（BL17）",
+  "action": "fogErase",
+  "unlock": null
+}

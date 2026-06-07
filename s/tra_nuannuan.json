@@ -1,0 +1,17 @@
+{
+  "id": "tra_nuannuan",
+  "name": "暖暖",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7390",
+  "latitude": 25.102217,
+  "longitude": 121.740726,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵暖暖站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ks_C17",
+  "name": "鼓山區公所",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C17",
+  "latitude": 22.636032,
+  "longitude": 120.282591,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運鼓山區公所站（C17）",
+  "action": "fogErase",
+  "unlock": null
+}

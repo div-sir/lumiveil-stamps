@@ -1,0 +1,17 @@
+{
+  "id": "tra_liuying",
+  "name": "柳營",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4130",
+  "latitude": 23.277431,
+  "longitude": 120.322515,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵柳營站",
+  "action": "fogErase",
+  "unlock": null
+}

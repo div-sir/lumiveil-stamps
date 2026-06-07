@@ -1,0 +1,17 @@
+{
+  "id": "tra_yuanlin",
+  "name": "員林",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3390",
+  "latitude": 23.959349,
+  "longitude": 120.569632,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵員林站",
+  "action": "fogErase",
+  "unlock": null
+}

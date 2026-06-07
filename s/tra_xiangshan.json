@@ -1,0 +1,17 @@
+{
+  "id": "tra_xiangshan",
+  "name": "香山",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1230",
+  "latitude": 24.762919,
+  "longitude": 120.91407,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵香山站",
+  "action": "fogErase",
+  "unlock": null
+}

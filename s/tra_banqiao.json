@@ -1,0 +1,17 @@
+{
+  "id": "tra_banqiao",
+  "name": "板橋",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1020",
+  "latitude": 25.01381,
+  "longitude": 121.464128,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵板橋站",
+  "action": "fogErase",
+  "unlock": null
+}

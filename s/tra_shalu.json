@@ -1,0 +1,17 @@
+{
+  "id": "tra_shalu",
+  "name": "沙鹿",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "2230",
+  "latitude": 24.23713,
+  "longitude": 120.557368,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵沙鹿站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_xinshi",
+  "name": "新市",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4190",
+  "latitude": 23.068223,
+  "longitude": 120.289721,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵新市站",
+  "action": "fogErase",
+  "unlock": null
+}

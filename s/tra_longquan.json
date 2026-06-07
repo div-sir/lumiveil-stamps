@@ -1,0 +1,17 @@
+{
+  "id": "tra_longquan",
+  "name": "龍泉",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3433",
+  "latitude": 23.835276,
+  "longitude": 120.750042,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵龍泉站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "tp_R27",
+  "name": "紅樹林",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R27",
+  "latitude": 25.154409,
+  "longitude": 121.458832,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運紅樹林站（R27）",
+  "action": "fogErase",
+  "unlock": null
+}

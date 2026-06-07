@@ -1,0 +1,19 @@
+{
+  "id": "ks_C2",
+  "name": "凱旋瑞田",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C2",
+  "latitude": 22.599571,
+  "longitude": 120.319798,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運凱旋瑞田站（C2）",
+  "action": "fogErase",
+  "unlock": null
+}

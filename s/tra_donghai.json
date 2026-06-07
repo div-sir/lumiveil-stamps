@@ -1,0 +1,17 @@
+{
+  "id": "tra_donghai",
+  "name": "東海",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "5110",
+  "latitude": 22.398942,
+  "longitude": 120.572316,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵東海站",
+  "action": "fogErase",
+  "unlock": null
+}

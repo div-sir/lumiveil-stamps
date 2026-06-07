@@ -1,0 +1,17 @@
+{
+  "id": "tra_sijiaoting",
+  "name": "四腳亭",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7380",
+  "latitude": 25.102636,
+  "longitude": 121.761821,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵四腳亭站",
+  "action": "fogErase",
+  "unlock": null
+}

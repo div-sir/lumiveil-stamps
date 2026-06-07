@@ -1,0 +1,19 @@
+{
+  "id": "ty_A3",
+  "name": "新北產業園區",
+  "category": "mrt_station",
+  "networkID": "taoyuan_mrt",
+  "lineCodes": [
+    "A"
+  ],
+  "stationCode": "A3",
+  "latitude": 25.061706,
+  "longitude": 121.458941,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "桃園捷運新北產業園區站（A3）",
+  "action": "fogErase",
+  "unlock": null
+}

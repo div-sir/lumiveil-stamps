@@ -1,0 +1,19 @@
+{
+  "id": "tp_R26",
+  "name": "竹圍",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R26",
+  "latitude": 25.136973,
+  "longitude": 121.45951,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運竹圍站（R26）",
+  "action": "fogErase",
+  "unlock": null
+}

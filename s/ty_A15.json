@@ -1,0 +1,19 @@
+{
+  "id": "ty_A15",
+  "name": "大園",
+  "category": "mrt_station",
+  "networkID": "taoyuan_mrt",
+  "lineCodes": [
+    "A"
+  ],
+  "stationCode": "A15",
+  "latitude": 25.055814,
+  "longitude": 121.21065,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "桃園捷運大園站（A15）",
+  "action": "fogErase",
+  "unlock": null
+}

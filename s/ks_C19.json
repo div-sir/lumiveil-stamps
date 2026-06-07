@@ -1,0 +1,19 @@
+{
+  "id": "ks_C19",
+  "name": "馬卡道",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C19",
+  "latitude": 22.647043,
+  "longitude": 120.281441,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運馬卡道站（C19）",
+  "action": "fogErase",
+  "unlock": null
+}

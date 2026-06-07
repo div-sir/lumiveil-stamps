@@ -1,0 +1,17 @@
+{
+  "id": "thsr_chiayi",
+  "name": "嘉義",
+  "category": "thsr_station",
+  "networkID": "thsr",
+  "lineCodes": null,
+  "stationCode": null,
+  "latitude": 23.459237,
+  "longitude": 120.323791,
+  "gpsRadiusMeters": 250,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "台灣高鐵嘉義站",
+  "action": "fogErase",
+  "unlock": null
+}

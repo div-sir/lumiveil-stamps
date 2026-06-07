@@ -1,0 +1,19 @@
+{
+  "id": "ty_A1",
+  "name": "台北車站",
+  "category": "mrt_station",
+  "networkID": "taoyuan_mrt",
+  "lineCodes": [
+    "A"
+  ],
+  "stationCode": "A1",
+  "latitude": 25.048704,
+  "longitude": 121.514345,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "桃園捷運台北車站站（A1）",
+  "action": "fogErase",
+  "unlock": null
+}

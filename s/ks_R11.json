@@ -1,0 +1,19 @@
+{
+  "id": "ks_R11",
+  "name": "高雄車站",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R11",
+  "latitude": 22.639335,
+  "longitude": 120.302652,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運高雄車站站（R11）",
+  "action": "fogErase",
+  "unlock": null
+}

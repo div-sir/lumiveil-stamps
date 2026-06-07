@@ -1,0 +1,19 @@
+{
+  "id": "tp_R24",
+  "name": "忠義",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R24",
+  "latitude": 25.130951,
+  "longitude": 121.473374,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運忠義站（R24）",
+  "action": "fogErase",
+  "unlock": null
+}

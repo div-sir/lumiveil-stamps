@@ -1,0 +1,17 @@
+{
+  "id": "tra_houzhuang",
+  "name": "後庄",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4450",
+  "latitude": 22.640464,
+  "longitude": 120.391047,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵後庄站",
+  "action": "fogErase",
+  "unlock": null
+}

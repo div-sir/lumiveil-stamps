@@ -1,0 +1,20 @@
+{
+  "id": "tp_R10",
+  "name": "台北車站",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "R",
+    "BL"
+  ],
+  "stationCode": "R10;BL12",
+  "latitude": 25.046243,
+  "longitude": 121.517475,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運台北車站站（R10）",
+  "action": "fogErase",
+  "unlock": null
+}

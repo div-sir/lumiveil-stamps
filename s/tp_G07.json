@@ -1,0 +1,19 @@
+{
+  "id": "tp_G07",
+  "name": "公館",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "G"
+  ],
+  "stationCode": "G07",
+  "latitude": 25.014917,
+  "longitude": 121.534264,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運公館站（G07）",
+  "action": "fogErase",
+  "unlock": null
+}

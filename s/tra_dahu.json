@@ -1,0 +1,17 @@
+{
+  "id": "tra_dahu",
+  "name": "大湖",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4290",
+  "latitude": 22.878341,
+  "longitude": 120.254112,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵大湖站",
+  "action": "fogErase",
+  "unlock": null
+}

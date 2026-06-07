@@ -1,0 +1,19 @@
+{
+  "id": "tp_R22",
+  "name": "北投",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R22",
+  "latitude": 25.131931,
+  "longitude": 121.498593,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運北投站（R22）",
+  "action": "fogErase",
+  "unlock": null
+}

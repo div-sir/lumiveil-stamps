@@ -1,0 +1,19 @@
+{
+  "id": "ks_R13",
+  "name": "凹子底",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R13",
+  "latitude": 22.657123,
+  "longitude": 120.303079,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運凹子底站（R13）",
+  "action": "fogErase",
+  "unlock": null
+}

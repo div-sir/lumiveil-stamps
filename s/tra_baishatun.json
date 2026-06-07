@@ -1,0 +1,17 @@
+{
+  "id": "tra_baishatun",
+  "name": "白沙屯",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "2150",
+  "latitude": 24.564931,
+  "longitude": 120.707945,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵白沙屯站",
+  "action": "fogErase",
+  "unlock": null
+}

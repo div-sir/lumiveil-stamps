@@ -1,0 +1,17 @@
+{
+  "id": "tra_sankuaicuo",
+  "name": "三塊厝",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4390",
+  "latitude": 22.639231,
+  "longitude": 120.293921,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵三塊厝站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "thsr_hsinchu",
+  "name": "新竹",
+  "category": "thsr_station",
+  "networkID": "thsr",
+  "lineCodes": null,
+  "stationCode": null,
+  "latitude": 24.808296,
+  "longitude": 121.040205,
+  "gpsRadiusMeters": 250,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "台灣高鐵新竹站",
+  "action": "fogErase",
+  "unlock": null
+}

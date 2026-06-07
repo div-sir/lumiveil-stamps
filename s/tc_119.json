@@ -1,0 +1,17 @@
+{
+  "id": "tc_119",
+  "name": "高鐵臺中站",
+  "category": "mrt_station",
+  "networkID": "taichung_mrt",
+  "lineCodes": null,
+  "stationCode": "119",
+  "latitude": 24.110072,
+  "longitude": 120.614004,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺中捷運高鐵臺中站站（119）",
+  "action": "fogErase",
+  "unlock": null
+}

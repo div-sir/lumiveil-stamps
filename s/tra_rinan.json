@@ -1,0 +1,17 @@
+{
+  "id": "tra_rinan",
+  "name": "日南",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "2190",
+  "latitude": 24.377831,
+  "longitude": 120.6544,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵日南站",
+  "action": "fogErase",
+  "unlock": null
+}

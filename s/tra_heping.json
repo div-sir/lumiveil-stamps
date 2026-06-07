@@ -1,0 +1,17 @@
+{
+  "id": "tra_heping",
+  "name": "和平",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7060",
+  "latitude": 24.297845,
+  "longitude": 121.754702,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵和平站",
+  "action": "fogErase",
+  "unlock": null
+}

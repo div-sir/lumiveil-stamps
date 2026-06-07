@@ -1,0 +1,19 @@
+{
+  "id": "ks_R16",
+  "name": "左營",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R16",
+  "latitude": 22.688166,
+  "longitude": 120.309019,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運左營站（R16）",
+  "action": "fogErase",
+  "unlock": null
+}

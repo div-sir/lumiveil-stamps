@@ -1,0 +1,17 @@
+{
+  "id": "tra_linnei",
+  "name": "林內",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3450",
+  "latitude": 23.759775,
+  "longitude": 120.614563,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵林內站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_minxiong",
+  "name": "民雄",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4060",
+  "latitude": 23.555228,
+  "longitude": 120.431682,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵民雄站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "tp_BR19",
+  "name": "內湖",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BR"
+  ],
+  "stationCode": "BR19",
+  "latitude": 25.083497,
+  "longitude": 121.594189,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運內湖站（BR19）",
+  "action": "fogErase",
+  "unlock": null
+}

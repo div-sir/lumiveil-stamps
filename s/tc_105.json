@@ -1,0 +1,17 @@
+{
+  "id": "tc_105",
+  "name": "四維國小",
+  "category": "mrt_station",
+  "networkID": "taichung_mrt",
+  "lineCodes": null,
+  "stationCode": "105",
+  "latitude": 24.171259,
+  "longitude": 120.693254,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺中捷運四維國小站（105）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ty_A2",
+  "name": "三重",
+  "category": "mrt_station",
+  "networkID": "taoyuan_mrt",
+  "lineCodes": [
+    "A"
+  ],
+  "stationCode": "A2",
+  "latitude": 25.054664,
+  "longitude": 121.482813,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "桃園捷運三重站（A2）",
+  "action": "fogErase",
+  "unlock": null
+}

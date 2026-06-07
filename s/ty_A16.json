@@ -1,0 +1,19 @@
+{
+  "id": "ty_A16",
+  "name": "橫山",
+  "category": "mrt_station",
+  "networkID": "taoyuan_mrt",
+  "lineCodes": [
+    "A"
+  ],
+  "stationCode": "A16",
+  "latitude": 25.036492,
+  "longitude": 121.215796,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "桃園捷運橫山站（A16）",
+  "action": "fogErase",
+  "unlock": null
+}

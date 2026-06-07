@@ -1,0 +1,17 @@
+{
+  "id": "tc_112",
+  "name": "文心森林公園",
+  "category": "mrt_station",
+  "networkID": "taichung_mrt",
+  "lineCodes": null,
+  "stationCode": "112",
+  "latitude": 24.145432,
+  "longitude": 120.646717,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺中捷運文心森林公園站（112）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_guangfu",
+  "name": "光復",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "6160",
+  "latitude": 23.666355,
+  "longitude": 121.421164,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵光復站",
+  "action": "fogErase",
+  "unlock": null
+}

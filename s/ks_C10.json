@@ -1,0 +1,19 @@
+{
+  "id": "ks_C10",
+  "name": "光榮碼頭",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C10",
+  "latitude": 22.616686,
+  "longitude": 120.293151,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運光榮碼頭站（C10）",
+  "action": "fogErase",
+  "unlock": null
+}

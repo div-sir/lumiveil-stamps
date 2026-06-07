@@ -1,0 +1,17 @@
+{
+  "id": "tra_zhunan",
+  "name": "竹南",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1250",
+  "latitude": 24.68656,
+  "longitude": 120.880749,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵竹南站",
+  "action": "fogErase",
+  "unlock": null
+}

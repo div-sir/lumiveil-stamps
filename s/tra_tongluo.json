@@ -1,0 +1,17 @@
+{
+  "id": "tra_tongluo",
+  "name": "銅鑼",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3180",
+  "latitude": 24.486325,
+  "longitude": 120.786007,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵銅鑼站",
+  "action": "fogErase",
+  "unlock": null
+}

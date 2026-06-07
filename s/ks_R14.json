@@ -1,0 +1,19 @@
+{
+  "id": "ks_R14",
+  "name": "巨蛋",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R14",
+  "latitude": 22.665621,
+  "longitude": 120.303256,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運巨蛋站（R14）",
+  "action": "fogErase",
+  "unlock": null
+}

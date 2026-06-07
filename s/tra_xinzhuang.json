@@ -1,0 +1,17 @@
+{
+  "id": "tra_xinzhuang",
+  "name": "新莊",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1192",
+  "latitude": 24.788093,
+  "longitude": 121.021958,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵新莊站",
+  "action": "fogErase",
+  "unlock": null
+}

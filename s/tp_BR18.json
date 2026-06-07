@@ -1,0 +1,19 @@
+{
+  "id": "tp_BR18",
+  "name": "文德",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BR"
+  ],
+  "stationCode": "BR18",
+  "latitude": 25.078556,
+  "longitude": 121.584942,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運文德站（BR18）",
+  "action": "fogErase",
+  "unlock": null
+}

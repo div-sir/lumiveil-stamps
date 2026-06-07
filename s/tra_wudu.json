@@ -1,0 +1,17 @@
+{
+  "id": "tra_wudu",
+  "name": "五堵",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "950",
+  "latitude": 25.077905,
+  "longitude": 121.667631,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵五堵站",
+  "action": "fogErase",
+  "unlock": null
+}

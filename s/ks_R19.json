@@ -1,0 +1,19 @@
+{
+  "id": "ks_R19",
+  "name": "楠梓科技園區",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R19",
+  "latitude": 22.718712,
+  "longitude": 120.307168,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運楠梓科技園區站（R19）",
+  "action": "fogErase",
+  "unlock": null
+}

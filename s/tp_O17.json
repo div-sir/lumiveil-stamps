@@ -1,0 +1,19 @@
+{
+  "id": "tp_O17",
+  "name": "頭前庄",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O17",
+  "latitude": 25.039501,
+  "longitude": 121.461387,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運頭前庄站（O17）",
+  "action": "fogErase",
+  "unlock": null
+}

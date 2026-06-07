@@ -1,0 +1,19 @@
+{
+  "id": "ks_R17",
+  "name": "世運",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R17",
+  "latitude": 22.701754,
+  "longitude": 120.30251,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運世運站（R17）",
+  "action": "fogErase",
+  "unlock": null
+}

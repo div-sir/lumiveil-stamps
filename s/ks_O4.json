@@ -1,0 +1,19 @@
+{
+  "id": "ks_O4",
+  "name": "前金",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O4",
+  "latitude": 22.628968,
+  "longitude": 120.294628,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運前金站（O4）",
+  "action": "fogErase",
+  "unlock": null
+}

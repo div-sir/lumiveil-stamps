@@ -1,0 +1,17 @@
+{
+  "id": "tra_baifu",
+  "name": "百福",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "940",
+  "latitude": 25.078171,
+  "longitude": 121.694768,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵百福站",
+  "action": "fogErase",
+  "unlock": null
+}

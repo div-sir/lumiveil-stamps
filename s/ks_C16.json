@@ -1,0 +1,19 @@
+{
+  "id": "ks_C16",
+  "name": "文武聖殿",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C16",
+  "latitude": 22.629547,
+  "longitude": 120.280728,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運文武聖殿站（C16）",
+  "action": "fogErase",
+  "unlock": null
+}

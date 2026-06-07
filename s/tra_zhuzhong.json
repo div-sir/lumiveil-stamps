@@ -1,0 +1,17 @@
+{
+  "id": "tra_zhuzhong",
+  "name": "竹中",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1193",
+  "latitude": 24.781713,
+  "longitude": 121.0312,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵竹中站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ks_C33",
+  "name": "衛生局",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C33",
+  "latitude": 22.625175,
+  "longitude": 120.32365,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運衛生局站（C33）",
+  "action": "fogErase",
+  "unlock": null
+}

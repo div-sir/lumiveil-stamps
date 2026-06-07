@@ -1,0 +1,17 @@
+{
+  "id": "tra_taimali",
+  "name": "太麻里",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "5220",
+  "latitude": 22.618963,
+  "longitude": 121.004692,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵太麻里站",
+  "action": "fogErase",
+  "unlock": null
+}

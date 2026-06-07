@@ -1,0 +1,17 @@
+{
+  "id": "tra_pingtung",
+  "name": "屏東",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "5000",
+  "latitude": 22.668853,
+  "longitude": 120.486126,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵屏東站",
+  "action": "fogErase",
+  "unlock": null
+}

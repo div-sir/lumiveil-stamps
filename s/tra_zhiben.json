@@ -1,0 +1,17 @@
+{
+  "id": "tra_zhiben",
+  "name": "知本",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "5230",
+  "latitude": 22.71017,
+  "longitude": 121.060657,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵知本站",
+  "action": "fogErase",
+  "unlock": null
+}

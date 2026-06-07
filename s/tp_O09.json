@@ -1,0 +1,19 @@
+{
+  "id": "tp_O09",
+  "name": "行天宮",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O09",
+  "latitude": 25.059413,
+  "longitude": 121.533162,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運行天宮站（O09）",
+  "action": "fogErase",
+  "unlock": null
+}

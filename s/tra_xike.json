@@ -1,0 +1,17 @@
+{
+  "id": "tra_xike",
+  "name": "汐科",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "970",
+  "latitude": 25.062829,
+  "longitude": 121.648624,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵汐科站",
+  "action": "fogErase",
+  "unlock": null
+}

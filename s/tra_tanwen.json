@@ -1,0 +1,17 @@
+{
+  "id": "tra_tanwen",
+  "name": "談文",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "2110",
+  "latitude": 24.656555,
+  "longitude": 120.858225,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵談文站",
+  "action": "fogErase",
+  "unlock": null
+}

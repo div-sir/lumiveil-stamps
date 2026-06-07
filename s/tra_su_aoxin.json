@@ -1,0 +1,17 @@
+{
+  "id": "tra_su_aoxin",
+  "name": "蘇澳新",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7130",
+  "latitude": 24.608249,
+  "longitude": 121.828149,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵蘇澳新站",
+  "action": "fogErase",
+  "unlock": null
+}

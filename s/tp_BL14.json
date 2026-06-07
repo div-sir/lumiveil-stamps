@@ -1,0 +1,20 @@
+{
+  "id": "tp_BL14",
+  "name": "忠孝新生",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BL",
+    "O"
+  ],
+  "stationCode": "BL14;O07",
+  "latitude": 25.04229,
+  "longitude": 121.532838,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運忠孝新生站（BL14）",
+  "action": "fogErase",
+  "unlock": null
+}

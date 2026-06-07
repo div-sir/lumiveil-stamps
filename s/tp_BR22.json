@@ -1,0 +1,19 @@
+{
+  "id": "tp_BR22",
+  "name": "東湖",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BR"
+  ],
+  "stationCode": "BR22",
+  "latitude": 25.06742,
+  "longitude": 121.61161,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運東湖站（BR22）",
+  "action": "fogErase",
+  "unlock": null
+}

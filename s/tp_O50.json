@@ -1,0 +1,19 @@
+{
+  "id": "tp_O50",
+  "name": "三重國小",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O50",
+  "latitude": 25.070003,
+  "longitude": 121.4973,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運三重國小站（O50）",
+  "action": "fogErase",
+  "unlock": null
+}

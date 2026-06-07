@@ -1,0 +1,17 @@
+{
+  "id": "tra_fuli",
+  "name": "富里",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "6080",
+  "latitude": 23.179152,
+  "longitude": 121.248447,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵富里站",
+  "action": "fogErase",
+  "unlock": null
+}

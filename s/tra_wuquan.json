@@ -1,0 +1,17 @@
+{
+  "id": "tra_wuquan",
+  "name": "五權",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3310",
+  "latitude": 24.128809,
+  "longitude": 120.666686,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵五權站",
+  "action": "fogErase",
+  "unlock": null
+}

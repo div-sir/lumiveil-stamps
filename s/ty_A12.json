@@ -1,0 +1,19 @@
+{
+  "id": "ty_A12",
+  "name": "機場第一航廈",
+  "category": "mrt_station",
+  "networkID": "taoyuan_mrt",
+  "lineCodes": [
+    "A"
+  ],
+  "stationCode": "A12",
+  "latitude": 25.080498,
+  "longitude": 121.238398,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "桃園捷運機場第一航廈站（A12）",
+  "action": "fogErase",
+  "unlock": null
+}

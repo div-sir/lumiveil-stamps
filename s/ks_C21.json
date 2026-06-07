@@ -1,0 +1,19 @@
+{
+  "id": "ks_C21",
+  "name": "美術館",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C21",
+  "latitude": 22.654988,
+  "longitude": 120.287254,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運美術館站（C21）",
+  "action": "fogErase",
+  "unlock": null
+}

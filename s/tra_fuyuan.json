@@ -1,0 +1,17 @@
+{
+  "id": "tra_fuyuan",
+  "name": "富源",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "6140",
+  "latitude": 23.580319,
+  "longitude": 121.380266,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵富源站",
+  "action": "fogErase",
+  "unlock": null
+}

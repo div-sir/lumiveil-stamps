@@ -1,0 +1,17 @@
+{
+  "id": "tra_tainan",
+  "name": "臺南",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4220",
+  "latitude": 22.997215,
+  "longitude": 120.213043,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵臺南站",
+  "action": "fogErase",
+  "unlock": null
+}

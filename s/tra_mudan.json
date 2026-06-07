@@ -1,0 +1,17 @@
+{
+  "id": "tra_mudan",
+  "name": "牡丹",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7320",
+  "latitude": 25.058515,
+  "longitude": 121.852061,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵牡丹站",
+  "action": "fogErase",
+  "unlock": null
+}

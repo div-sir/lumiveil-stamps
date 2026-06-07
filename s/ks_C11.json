@@ -1,0 +1,19 @@
+{
+  "id": "ks_C11",
+  "name": "真愛碼頭",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C11",
+  "latitude": 22.619265,
+  "longitude": 120.289426,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運真愛碼頭站（C11）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tc_107",
+  "name": "文心中清",
+  "category": "mrt_station",
+  "networkID": "taichung_mrt",
+  "lineCodes": null,
+  "stationCode": "107",
+  "latitude": 24.173699,
+  "longitude": 120.670588,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺中捷運文心中清站（107）",
+  "action": "fogErase",
+  "unlock": null
+}

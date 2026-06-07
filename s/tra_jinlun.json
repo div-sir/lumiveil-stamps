@@ -1,0 +1,17 @@
+{
+  "id": "tra_jinlun",
+  "name": "金崙",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "5210",
+  "latitude": 22.531329,
+  "longitude": 120.967496,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵金崙站",
+  "action": "fogErase",
+  "unlock": null
+}

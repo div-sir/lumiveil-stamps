@@ -1,0 +1,17 @@
+{
+  "id": "tra_ruiyuan",
+  "name": "瑞源",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "6030",
+  "latitude": 22.956028,
+  "longitude": 121.159212,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵瑞源站",
+  "action": "fogErase",
+  "unlock": null
+}

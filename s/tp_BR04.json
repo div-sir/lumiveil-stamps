@@ -1,0 +1,19 @@
+{
+  "id": "tp_BR04",
+  "name": "萬芳醫院",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BR"
+  ],
+  "stationCode": "BR04",
+  "latitude": 24.999431,
+  "longitude": 121.558138,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運萬芳醫院站（BR04）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_fenglin",
+  "name": "鳳林",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "6180",
+  "latitude": 23.746295,
+  "longitude": 121.446713,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵鳳林站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_checheng",
+  "name": "車埕",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3436",
+  "latitude": 23.832478,
+  "longitude": 120.865922,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵車埕站",
+  "action": "fogErase",
+  "unlock": null
+}

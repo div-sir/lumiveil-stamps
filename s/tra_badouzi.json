@@ -1,0 +1,17 @@
+{
+  "id": "tra_badouzi",
+  "name": "八斗子",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7362",
+  "latitude": 25.135287,
+  "longitude": 121.802958,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵八斗子站",
+  "action": "fogErase",
+  "unlock": null
+}

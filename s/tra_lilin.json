@@ -1,0 +1,17 @@
+{
+  "id": "tra_lilin",
+  "name": "栗林",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3240",
+  "latitude": 24.2346,
+  "longitude": 120.710628,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵栗林站",
+  "action": "fogErase",
+  "unlock": null
+}

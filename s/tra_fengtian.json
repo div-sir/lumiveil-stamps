@@ -1,0 +1,17 @@
+{
+  "id": "tra_fengtian",
+  "name": "豐田",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "6210",
+  "latitude": 23.848533,
+  "longitude": 121.495981,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵豐田站",
+  "action": "fogErase",
+  "unlock": null
+}

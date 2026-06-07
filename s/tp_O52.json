@@ -1,0 +1,19 @@
+{
+  "id": "tp_O52",
+  "name": "徐匯中學",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O52",
+  "latitude": 25.080336,
+  "longitude": 121.480227,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運徐匯中學站（O52）",
+  "action": "fogErase",
+  "unlock": null
+}

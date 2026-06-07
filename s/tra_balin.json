@@ -1,0 +1,17 @@
+{
+  "id": "tra_balin",
+  "name": "拔林",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4160",
+  "latitude": 23.172789,
+  "longitude": 120.321322,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵拔林站",
+  "action": "fogErase",
+  "unlock": null
+}

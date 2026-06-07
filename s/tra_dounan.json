@@ -1,0 +1,17 @@
+{
+  "id": "tra_dounan",
+  "name": "斗南",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3480",
+  "latitude": 23.672698,
+  "longitude": 120.481102,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵斗南站",
+  "action": "fogErase",
+  "unlock": null
+}

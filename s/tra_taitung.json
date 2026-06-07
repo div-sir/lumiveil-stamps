@@ -1,0 +1,17 @@
+{
+  "id": "tra_taitung",
+  "name": "臺東",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "6000",
+  "latitude": 22.79346,
+  "longitude": 121.122432,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵臺東站",
+  "action": "fogErase",
+  "unlock": null
+}

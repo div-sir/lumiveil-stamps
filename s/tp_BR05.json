@@ -1,0 +1,19 @@
+{
+  "id": "tp_BR05",
+  "name": "辛亥",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BR"
+  ],
+  "stationCode": "BR05",
+  "latitude": 25.005481,
+  "longitude": 121.55706,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運辛亥站（BR05）",
+  "action": "fogErase",
+  "unlock": null
+}

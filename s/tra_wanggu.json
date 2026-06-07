@@ -1,0 +1,17 @@
+{
+  "id": "tra_wanggu",
+  "name": "望古",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7333",
+  "latitude": 25.034506,
+  "longitude": 121.763598,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵望古站",
+  "action": "fogErase",
+  "unlock": null
+}

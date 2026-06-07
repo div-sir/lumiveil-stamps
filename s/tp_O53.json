@@ -1,0 +1,19 @@
+{
+  "id": "tp_O53",
+  "name": "三民高中",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O53",
+  "latitude": 25.085505,
+  "longitude": 121.473299,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運三民高中站（O53）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_shengxing",
+  "name": "勝興",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3192",
+  "latitude": 24.388029,
+  "longitude": 120.781742,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵勝興站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_zhongzhou",
+  "name": "中洲",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4270",
+  "latitude": 22.903906,
+  "longitude": 120.25263,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵中洲站",
+  "action": "fogErase",
+  "unlock": null
+}

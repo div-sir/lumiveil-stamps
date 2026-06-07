@@ -1,0 +1,19 @@
+{
+  "id": "tp_R28",
+  "name": "淡水",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R28",
+  "latitude": 25.167783,
+  "longitude": 121.445574,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運淡水站（R28）",
+  "action": "fogErase",
+  "unlock": null
+}

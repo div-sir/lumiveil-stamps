@@ -1,0 +1,17 @@
+{
+  "id": "tra_heren",
+  "name": "和仁",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7050",
+  "latitude": 24.241583,
+  "longitude": 121.712463,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵和仁站",
+  "action": "fogErase",
+  "unlock": null
+}

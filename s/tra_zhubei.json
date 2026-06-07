@@ -1,0 +1,17 @@
+{
+  "id": "tra_zhubei",
+  "name": "竹北",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1180",
+  "latitude": 24.839173,
+  "longitude": 121.009235,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵竹北站",
+  "action": "fogErase",
+  "unlock": null
+}

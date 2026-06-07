@@ -1,0 +1,17 @@
+{
+  "id": "tra_fengyuan",
+  "name": "豐原",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3230",
+  "latitude": 24.254542,
+  "longitude": 120.723684,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵豐原站",
+  "action": "fogErase",
+  "unlock": null
+}

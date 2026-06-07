@@ -1,0 +1,19 @@
+{
+  "id": "nt_Y18",
+  "name": "頭前庄",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "Y"
+  ],
+  "stationCode": "Y18",
+  "latitude": 25.039903,
+  "longitude": 121.460319,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運頭前庄站（Y18）",
+  "action": "fogErase",
+  "unlock": null
+}

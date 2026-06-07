@@ -1,0 +1,19 @@
+{
+  "id": "ks_C3",
+  "name": "前鎮之星",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C3",
+  "latitude": 22.595495,
+  "longitude": 120.315393,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運前鎮之星站（C3）",
+  "action": "fogErase",
+  "unlock": null
+}

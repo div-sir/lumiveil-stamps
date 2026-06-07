@@ -1,0 +1,19 @@
+{
+  "id": "nt_Y10",
+  "name": "景平",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "Y"
+  ],
+  "stationCode": "Y10",
+  "latitude": 24.99215,
+  "longitude": 121.516173,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運景平站（Y10）",
+  "action": "fogErase",
+  "unlock": null
+}

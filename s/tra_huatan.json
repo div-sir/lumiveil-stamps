@@ -1,0 +1,17 @@
+{
+  "id": "tra_huatan",
+  "name": "花壇",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3370",
+  "latitude": 24.024992,
+  "longitude": 120.537228,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵花壇站",
+  "action": "fogErase",
+  "unlock": null
+}

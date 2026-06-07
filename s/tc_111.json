@@ -1,0 +1,17 @@
+{
+  "id": "tc_111",
+  "name": "水安宮",
+  "category": "mrt_station",
+  "networkID": "taichung_mrt",
+  "lineCodes": null,
+  "stationCode": "111",
+  "latitude": 24.153239,
+  "longitude": 120.64678,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺中捷運水安宮站（111）",
+  "action": "fogErase",
+  "unlock": null
+}

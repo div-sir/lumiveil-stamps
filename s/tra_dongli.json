@@ -1,0 +1,17 @@
+{
+  "id": "tra_dongli",
+  "name": "東里",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "6100",
+  "latitude": 23.272428,
+  "longitude": 121.303996,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵東里站",
+  "action": "fogErase",
+  "unlock": null
+}

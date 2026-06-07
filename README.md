@@ -18,19 +18,31 @@ https://div-sir.github.io/lumiveil-stamps/s/{stampID}.json
 |------|------|------|
 | `id` | String | 唯一識別碼，與檔名相同 |
 | `name` | String | 顯示名稱（中文） |
-| `category` | String | `mrt_station` / `landmark` / `thsr_station` / `tra_station` |
-| `networkID` | String? | `taipei_mrt` / `tokyo_metro` / `thsr` / `tra` |
-| `lineCodes` | [String]? | 所屬路線陣列，e.g. `["R"]` / `["R", "BL"]` / `null` |
-| `stationCode` | String? | 官方站碼，e.g. `"R10"` |
+| `category` | String | `mrt_station` / `thsr_station` / `tra_station` |
+| `networkID` | String? | `taipei_mrt` / `kaohsiung_mrt` / `new_taipei_mrt` / `taoyuan_mrt` / `taichung_mrt` / `thsr` / `tra` |
+| `lineCodes` | [String]? | 所屬路線代碼陣列，e.g. `["R"]` / `["R", "BL"]` / `null`（台鐵、高鐵無路線代碼） |
+| `stationCode` | String? | 官方站碼，e.g. `"R10"` / `"R10;BL12"` / `"6110"` |
 | `latitude` | Double | 印章中心緯度 |
 | `longitude` | Double | 印章中心經度 |
 | `gpsRadiusMeters` | Double | 允許感應的 GPS 半徑（公尺） |
 | `isActive` | Bool | 是否啟用 |
 | `campaignID` | String? | 活動 ID（`null` 表示一般印章） |
-| `stampImageURLs` | [String]? | 印章圖示 URL 陣列（可為空） |
+| `stampImageURLs` | [String]? | 印章圖示 URL 陣列 |
 | `description` | String? | 簡介文字 |
 | `action` | String? | `fogErase`（預設）/ `geofenceUnlock` / `collectionOnly` |
-| `unlock` | Object? | 解鎖彈窗內容，含 `title` / `subtitle?` / `animation?` |
+| `unlock` | Object? | 解鎖彈窗，含 `title` / `subtitle?` / `animation?` |
+
+### Stamp ID 命名規則
+
+| 網路 | 前綴 | 範例 ID |
+|------|------|---------|
+| 臺北捷運 | `tp_` | `tp_R10`、`tp_G08` |
+| 高雄捷運 | `ks_` | `ks_R4`、`ks_O5` |
+| 新北捷運 | `nt_` | `nt_O01` |
+| 桃園捷運 | `ty_` | `ty_A1` |
+| 臺中捷運 | `tc_` | `tc_G01` |
+| 台灣高鐵 | `thsr_` | `thsr_taipei`、`thsr_taichung` |
+| 臺鐵 | `tra_` | `tra_taipei`、`tra_hualien` |
 
 ### action 說明
 
@@ -38,86 +50,42 @@ https://div-sir.github.io/lumiveil-stamps/s/{stampID}.json
 - `geofenceUnlock`：觸發 Geofence 解鎖 + 加入收集
 - `collectionOnly`：僅加入收集，不影響地圖
 
-### 範例（單線站）
+### 範例（捷運交會站）
 
 ```json
 {
-  "id": "G_dongmen",
-  "name": "東門",
-  "category": "mrt_station",
-  "networkID": "taipei_mrt",
-  "lineCodes": ["G"],
-  "stationCode": "G14",
-  "latitude": 25.0339,
-  "longitude": 121.5295,
-  "gpsRadiusMeters": 150,
-  "isActive": true,
-  "campaignID": null,
-  "stampImageURLs": [],
-  "description": "松山新店線東門站，永康街美食商圈",
-  "action": "fogErase",
-  "unlock": null
-}
-```
-
-### 範例（交會站）
-
-```json
-{
-  "id": "taipei_main",
+  "id": "tp_R10",
   "name": "台北車站",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
   "lineCodes": ["R", "BL"],
-  "stationCode": "R10",
-  "latitude": 25.0478,
-  "longitude": 121.5170,
-  "gpsRadiusMeters": 200,
+  "stationCode": "R10;BL12",
+  "latitude": 25.047801,
+  "longitude": 121.517004,
+  "gpsRadiusMeters": 150,
   "isActive": true,
   "campaignID": null,
   "stampImageURLs": [],
-  "description": "台北捷運樞紐站，淡水信義線 × 板南線交會",
+  "description": "臺北捷運台北車站（R10）",
   "action": "fogErase",
   "unlock": null
 }
 ```
 
-## 目前印章清單
+## 目前印章統計
 
-### 台北捷運（30 站）
+| 網路 | 站數 | GPS 半徑 |
+|------|------|---------|
+| 臺鐵 | 221 | 200m |
+| 臺北捷運 | 109 | 150m |
+| 高雄捷運 | 75 | 150m |
+| 新北捷運 | 37 | 150m |
+| 桃園捷運 | 22 | 150m |
+| 臺中捷運 | 18 | 150m |
+| 台灣高鐵 | 12 | 250m |
+| **合計** | **494** | |
 
-| 站名 | ID | 路線 |
-|------|----|------|
-| 台北車站 | `taipei_main` | R × BL |
-| 台大醫院 | `R_ntu_hospital` | R |
-| 中正紀念堂 | `R_cksmemorial` | R |
-| 古亭 | `guting` | R × G |
-| 台電大樓 | `taipower` | G |
-| 公館 | `gongguan` | G |
-| 萬隆 | `wanlong` | G |
-| 中山 | `R_zhongshan` | R |
-| 雙連 | `R_shuanglian` | R |
-| 民權西路 | `R_minquan_w` | R × O |
-| 圓山 | `R_yuanshan` | R |
-| 劍潭 | `R_jiantan` | R |
-| 士林 | `R_shilin` | R |
-| 西門 | `BL_ximen` | BL |
-| 龍山寺 | `BL_longshan` | BL |
-| 江子翠 | `BL_jiangzicui` | BL |
-| 忠孝新生 | `zhongxiao_xinsheng` | BL × G |
-| 忠孝復興 | `zhongxiao_fuxing` | BL |
-| 忠孝敦化 | `BL_dunhua` | BL |
-| 國父紀念館 | `BL_sunyatsen` | BL |
-| 市政府 | `BL_cityhall` | BL |
-| 永春 | `BL_yongchun` | BL |
-| 後山埤 | `BL_houshandong` | BL |
-| 松山 | `G_songshan` | G |
-| 南京三民 | `G_nanjing_sanmin` | G |
-| 台北小巨蛋 | `G_taipei_arena` | G |
-| 南京復興 | `G_nanjing_fuxing` | G |
-| 松江南京 | `G_songjiang` | G × O |
-| 行天宮 | `G_xingtian` | G |
-| 東門 | `G_dongmen` | G |
+*站點資料來源：OpenStreetMap（© OpenStreetMap contributors, ODbL）*
 
 ## NFC 標籤寫入格式
 

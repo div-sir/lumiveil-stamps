@@ -1,0 +1,17 @@
+{
+  "id": "tc_103A",
+  "name": "北屯總站",
+  "category": "mrt_station",
+  "networkID": "taichung_mrt",
+  "lineCodes": null,
+  "stationCode": "103a",
+  "latitude": 24.189106,
+  "longitude": 120.708795,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺中捷運北屯總站站（103A）",
+  "action": "fogErase",
+  "unlock": null
+}

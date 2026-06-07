@@ -1,0 +1,19 @@
+{
+  "id": "tp_BR14",
+  "name": "大直",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BR"
+  ],
+  "stationCode": "BR14",
+  "latitude": 25.079865,
+  "longitude": 121.54744,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運大直站（BR14）",
+  "action": "fogErase",
+  "unlock": null
+}

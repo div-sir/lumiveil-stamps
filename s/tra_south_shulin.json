@@ -1,0 +1,17 @@
+{
+  "id": "tra_south_shulin",
+  "name": "南樹林",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1050",
+  "latitude": 24.980368,
+  "longitude": 121.408387,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵南樹林站",
+  "action": "fogErase",
+  "unlock": null
+}

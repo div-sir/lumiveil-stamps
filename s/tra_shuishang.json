@@ -1,0 +1,17 @@
+{
+  "id": "tra_shuishang",
+  "name": "水上",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4090",
+  "latitude": 23.433705,
+  "longitude": 120.399632,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵水上站",
+  "action": "fogErase",
+  "unlock": null
+}

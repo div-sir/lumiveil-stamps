@@ -1,0 +1,17 @@
+{
+  "id": "tra_xizhi",
+  "name": "汐止",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "960",
+  "latitude": 25.067421,
+  "longitude": 121.660685,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵汐止站",
+  "action": "fogErase",
+  "unlock": null
+}

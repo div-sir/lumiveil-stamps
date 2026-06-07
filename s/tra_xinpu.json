@@ -1,0 +1,17 @@
+{
+  "id": "tra_xinpu",
+  "name": "新埔",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "2160",
+  "latitude": 24.540268,
+  "longitude": 120.695503,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵新埔站",
+  "action": "fogErase",
+  "unlock": null
+}

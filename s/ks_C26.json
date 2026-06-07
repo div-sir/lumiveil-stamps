@@ -1,0 +1,19 @@
+{
+  "id": "ks_C26",
+  "name": "大順民族",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C26",
+  "latitude": 22.655485,
+  "longitude": 120.315423,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運大順民族站（C26）",
+  "action": "fogErase",
+  "unlock": null
+}

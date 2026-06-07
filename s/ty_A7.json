@@ -1,0 +1,19 @@
+{
+  "id": "ty_A7",
+  "name": "體育大學",
+  "category": "mrt_station",
+  "networkID": "taoyuan_mrt",
+  "lineCodes": [
+    "A"
+  ],
+  "stationCode": "A7",
+  "latitude": 25.041332,
+  "longitude": 121.385408,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "桃園捷運體育大學站（A7）",
+  "action": "fogErase",
+  "unlock": null
+}

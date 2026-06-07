@@ -1,0 +1,17 @@
+{
+  "id": "tra_daqing",
+  "name": "大慶",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3320",
+  "latitude": 24.119425,
+  "longitude": 120.648774,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵大慶站",
+  "action": "fogErase",
+  "unlock": null
+}

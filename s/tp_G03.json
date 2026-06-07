@@ -1,0 +1,19 @@
+{
+  "id": "tp_G03",
+  "name": "七張",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "G"
+  ],
+  "stationCode": "G03",
+  "latitude": 24.975022,
+  "longitude": 121.54292,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運七張站（G03）",
+  "action": "fogErase",
+  "unlock": null
+}

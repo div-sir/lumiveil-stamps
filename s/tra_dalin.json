@@ -1,0 +1,17 @@
+{
+  "id": "tra_dalin",
+  "name": "大林",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4050",
+  "latitude": 23.600814,
+  "longitude": 120.455979,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵大林站",
+  "action": "fogErase",
+  "unlock": null
+}

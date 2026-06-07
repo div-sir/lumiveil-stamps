@@ -1,0 +1,19 @@
+{
+  "id": "tp_BR07",
+  "name": "六張犁",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BR"
+  ],
+  "stationCode": "BR07",
+  "latitude": 25.023818,
+  "longitude": 121.553121,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運六張犁站（BR07）",
+  "action": "fogErase",
+  "unlock": null
+}

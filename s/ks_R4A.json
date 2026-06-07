@@ -1,0 +1,19 @@
+{
+  "id": "ks_R4A",
+  "name": "草衙",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R4A",
+  "latitude": 22.580548,
+  "longitude": 120.328769,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運草衙站（R4A）",
+  "action": "fogErase",
+  "unlock": null
+}

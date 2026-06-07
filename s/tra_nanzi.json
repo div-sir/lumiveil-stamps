@@ -1,0 +1,17 @@
+{
+  "id": "tra_nanzi",
+  "name": "楠梓",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4330",
+  "latitude": 22.727141,
+  "longitude": 120.324127,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵楠梓站",
+  "action": "fogErase",
+  "unlock": null
+}

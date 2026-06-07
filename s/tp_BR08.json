@@ -1,0 +1,19 @@
+{
+  "id": "tp_BR08",
+  "name": "科技大樓",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BR"
+  ],
+  "stationCode": "BR08",
+  "latitude": 25.026101,
+  "longitude": 121.54346,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運科技大樓站（BR08）",
+  "action": "fogErase",
+  "unlock": null
+}

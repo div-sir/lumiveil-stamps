@@ -1,0 +1,19 @@
+{
+  "id": "ty_A18",
+  "name": "高鐵桃園站",
+  "category": "mrt_station",
+  "networkID": "taoyuan_mrt",
+  "lineCodes": [
+    "A"
+  ],
+  "stationCode": "A18",
+  "latitude": 25.013716,
+  "longitude": 121.214138,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "桃園捷運高鐵桃園站站（A18）",
+  "action": "fogErase",
+  "unlock": null
+}

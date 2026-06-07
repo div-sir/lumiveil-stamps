@@ -1,0 +1,17 @@
+{
+  "id": "tra_zhudong",
+  "name": "竹東",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1203",
+  "latitude": 24.738321,
+  "longitude": 121.094903,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵竹東站",
+  "action": "fogErase",
+  "unlock": null
+}

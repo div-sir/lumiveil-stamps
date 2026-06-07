@@ -1,0 +1,17 @@
+{
+  "id": "tra_puxin",
+  "name": "埔心",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1110",
+  "latitude": 24.919647,
+  "longitude": 121.183619,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵埔心站",
+  "action": "fogErase",
+  "unlock": null
+}

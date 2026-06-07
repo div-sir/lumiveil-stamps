@@ -1,0 +1,17 @@
+{
+  "id": "tra_guishan",
+  "name": "龜山",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7250",
+  "latitude": 24.905066,
+  "longitude": 121.868746,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵龜山站",
+  "action": "fogErase",
+  "unlock": null
+}

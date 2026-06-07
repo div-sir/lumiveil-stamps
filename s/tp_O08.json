@@ -1,0 +1,20 @@
+{
+  "id": "tp_O08",
+  "name": "松江南京",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "O",
+    "G"
+  ],
+  "stationCode": "O08;G15",
+  "latitude": 25.052014,
+  "longitude": 121.533036,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運松江南京站（O08）",
+  "action": "fogErase",
+  "unlock": null
+}

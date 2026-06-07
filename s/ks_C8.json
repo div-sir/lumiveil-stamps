@@ -1,0 +1,19 @@
+{
+  "id": "ks_C8",
+  "name": "高雄展覽館",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C8",
+  "latitude": 22.610106,
+  "longitude": 120.298008,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運高雄展覽館站（C8）",
+  "action": "fogErase",
+  "unlock": null
+}

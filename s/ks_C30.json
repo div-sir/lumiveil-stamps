@@ -1,0 +1,19 @@
+{
+  "id": "ks_C30",
+  "name": "科工館",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C30",
+  "latitude": 22.636923,
+  "longitude": 120.327143,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運科工館站（C30）",
+  "action": "fogErase",
+  "unlock": null
+}

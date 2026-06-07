@@ -1,0 +1,17 @@
+{
+  "id": "tra_chang_jung_christian_university",
+  "name": "長榮大學",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4271",
+  "latitude": 22.90718,
+  "longitude": 120.272368,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵長榮大學站",
+  "action": "fogErase",
+  "unlock": null
+}

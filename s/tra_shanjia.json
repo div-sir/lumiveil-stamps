@@ -1,0 +1,17 @@
+{
+  "id": "tra_shanjia",
+  "name": "山佳",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1060",
+  "latitude": 24.972689,
+  "longitude": 121.392587,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵山佳站",
+  "action": "fogErase",
+  "unlock": null
+}

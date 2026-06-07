@@ -1,0 +1,19 @@
+{
+  "id": "tp_G11",
+  "name": "小南門",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "G"
+  ],
+  "stationCode": "G11",
+  "latitude": 25.035901,
+  "longitude": 121.510806,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運小南門站（G11）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "nt_V26",
+  "name": "淡水漁人碼頭",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "V"
+  ],
+  "stationCode": "V26",
+  "latitude": 25.182005,
+  "longitude": 121.418612,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運淡水漁人碼頭站（V26）",
+  "action": "fogErase",
+  "unlock": null
+}

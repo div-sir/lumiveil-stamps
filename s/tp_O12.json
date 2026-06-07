@@ -1,0 +1,19 @@
+{
+  "id": "tp_O12",
+  "name": "大橋頭",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O12",
+  "latitude": 25.063198,
+  "longitude": 121.512694,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運大橋頭站（O12）",
+  "action": "fogErase",
+  "unlock": null
+}

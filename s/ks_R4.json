@@ -1,0 +1,19 @@
+{
+  "id": "ks_R4",
+  "name": "高雄國際機場",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R4",
+  "latitude": 22.570116,
+  "longitude": 120.341627,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運高雄國際機場站（R4）",
+  "action": "fogErase",
+  "unlock": null
+}

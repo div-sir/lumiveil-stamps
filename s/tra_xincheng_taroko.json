@@ -1,0 +1,17 @@
+{
+  "id": "tra_xincheng_taroko",
+  "name": "新城 (太魯閣)",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7030",
+  "latitude": 24.128049,
+  "longitude": 121.640702,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵新城 (太魯閣)站",
+  "action": "fogErase",
+  "unlock": null
+}

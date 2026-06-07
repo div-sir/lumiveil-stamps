@@ -1,0 +1,17 @@
+{
+  "id": "tra_chenggong",
+  "name": "成功",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3350",
+  "latitude": 24.114336,
+  "longitude": 120.59056,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵成功站",
+  "action": "fogErase",
+  "unlock": null
+}

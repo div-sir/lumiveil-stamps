@@ -1,0 +1,19 @@
+{
+  "id": "tp_R20",
+  "name": "唭哩岸",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R20",
+  "latitude": 25.120905,
+  "longitude": 121.50613,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運唭哩岸站（R20）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_zaoqiao",
+  "name": "造橋",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3140",
+  "latitude": 24.641736,
+  "longitude": 120.867435,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵造橋站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "tp_R04",
+  "name": "信義安和",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R04",
+  "latitude": 25.03313,
+  "longitude": 121.552733,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運信義安和站（R04）",
+  "action": "fogErase",
+  "unlock": null
+}

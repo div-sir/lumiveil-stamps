@@ -1,0 +1,17 @@
+{
+  "id": "tra_miaoli",
+  "name": "苗栗",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3160",
+  "latitude": 24.569232,
+  "longitude": 120.822265,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵苗栗站",
+  "action": "fogErase",
+  "unlock": null
+}

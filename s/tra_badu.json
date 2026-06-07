@@ -1,0 +1,17 @@
+{
+  "id": "tra_badu",
+  "name": "八堵",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "920",
+  "latitude": 25.108495,
+  "longitude": 121.729007,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵八堵站",
+  "action": "fogErase",
+  "unlock": null
+}

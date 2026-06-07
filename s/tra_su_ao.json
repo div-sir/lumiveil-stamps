@@ -1,0 +1,17 @@
+{
+  "id": "tra_su_ao",
+  "name": "蘇澳",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7120",
+  "latitude": 24.595177,
+  "longitude": 121.851454,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵蘇澳站",
+  "action": "fogErase",
+  "unlock": null
+}

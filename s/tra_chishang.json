@@ -1,0 +1,17 @@
+{
+  "id": "tra_chishang",
+  "name": "池上",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "6070",
+  "latitude": 23.12632,
+  "longitude": 121.219432,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵池上站",
+  "action": "fogErase",
+  "unlock": null
+}

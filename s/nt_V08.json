@@ -1,0 +1,19 @@
+{
+  "id": "nt_V08",
+  "name": "濱海義山",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "V"
+  ],
+  "stationCode": "V08",
+  "latitude": 25.189718,
+  "longitude": 121.437372,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運濱海義山站（V08）",
+  "action": "fogErase",
+  "unlock": null
+}

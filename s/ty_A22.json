@@ -1,0 +1,19 @@
+{
+  "id": "ty_A22",
+  "name": "老街溪",
+  "category": "mrt_station",
+  "networkID": "taoyuan_mrt",
+  "lineCodes": [
+    "A"
+  ],
+  "stationCode": "A22",
+  "latitude": 24.958581,
+  "longitude": 121.219371,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "桃園捷運老街溪站（A22）",
+  "action": "fogErase",
+  "unlock": null
+}

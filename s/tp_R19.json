@@ -1,0 +1,19 @@
+{
+  "id": "tp_R19",
+  "name": "石牌",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R19",
+  "latitude": 25.114607,
+  "longitude": 121.515523,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運石牌站（R19）",
+  "action": "fogErase",
+  "unlock": null
+}

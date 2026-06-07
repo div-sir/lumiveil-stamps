@@ -1,0 +1,19 @@
+{
+  "id": "tp_BL03",
+  "name": "土城",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BL"
+  ],
+  "stationCode": "BL03",
+  "latitude": 24.973182,
+  "longitude": 121.444391,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運土城站（BL03）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "nt_Y19",
+  "name": "幸福",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "Y"
+  ],
+  "stationCode": "Y19",
+  "latitude": 25.049989,
+  "longitude": 121.459967,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運幸福站（Y19）",
+  "action": "fogErase",
+  "unlock": null
+}

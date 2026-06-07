@@ -1,0 +1,17 @@
+{
+  "id": "tra_sankeng",
+  "name": "三坑",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "910",
+  "latitude": 25.122217,
+  "longitude": 121.742098,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵三坑站",
+  "action": "fogErase",
+  "unlock": null
+}

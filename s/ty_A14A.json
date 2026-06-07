@@ -1,0 +1,19 @@
+{
+  "id": "ty_A14A",
+  "name": "機場旅館",
+  "category": "mrt_station",
+  "networkID": "taoyuan_mrt",
+  "lineCodes": [
+    "A"
+  ],
+  "stationCode": "A14a",
+  "latitude": 25.069179,
+  "longitude": 121.220626,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "桃園捷運機場旅館站（A14A）",
+  "action": "fogErase",
+  "unlock": null
+}

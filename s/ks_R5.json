@@ -1,0 +1,19 @@
+{
+  "id": "ks_R5",
+  "name": "前鎮高中",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R5",
+  "latitude": 22.588412,
+  "longitude": 120.321741,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運前鎮高中站（R5）",
+  "action": "fogErase",
+  "unlock": null
+}

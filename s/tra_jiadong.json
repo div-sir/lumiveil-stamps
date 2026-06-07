@@ -1,0 +1,17 @@
+{
+  "id": "tra_jiadong",
+  "name": "佳冬",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "5100",
+  "latitude": 22.413826,
+  "longitude": 120.547579,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵佳冬站",
+  "action": "fogErase",
+  "unlock": null
+}

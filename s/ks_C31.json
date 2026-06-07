@@ -1,0 +1,19 @@
+{
+  "id": "ks_C31",
+  "name": "聖功醫院",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C31",
+  "latitude": 22.632799,
+  "longitude": 120.325612,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運聖功醫院站（C31）",
+  "action": "fogErase",
+  "unlock": null
+}

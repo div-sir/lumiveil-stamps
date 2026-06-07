@@ -1,0 +1,19 @@
+{
+  "id": "ks_O14",
+  "name": "鳳山國中",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O14",
+  "latitude": 22.624629,
+  "longitude": 120.371827,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運鳳山國中站（O14）",
+  "action": "fogErase",
+  "unlock": null
+}

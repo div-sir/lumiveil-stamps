@@ -1,0 +1,17 @@
+{
+  "id": "tc_108",
+  "name": "文華高中",
+  "category": "mrt_station",
+  "networkID": "taichung_mrt",
+  "lineCodes": null,
+  "stationCode": "108",
+  "latitude": 24.171505,
+  "longitude": 120.660652,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺中捷運文華高中站（108）",
+  "action": "fogErase",
+  "unlock": null
+}

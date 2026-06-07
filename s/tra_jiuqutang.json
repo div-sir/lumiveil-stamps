@@ -1,0 +1,17 @@
+{
+  "id": "tra_jiuqutang",
+  "name": "九曲堂",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4460",
+  "latitude": 22.655965,
+  "longitude": 120.421202,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵九曲堂站",
+  "action": "fogErase",
+  "unlock": null
+}

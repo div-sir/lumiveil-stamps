@@ -1,0 +1,19 @@
+{
+  "id": "ks_O7",
+  "name": "文化中心",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O7",
+  "latitude": 22.63027,
+  "longitude": 120.317623,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運文化中心站（O7）",
+  "action": "fogErase",
+  "unlock": null
+}

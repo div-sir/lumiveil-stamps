@@ -1,0 +1,19 @@
+{
+  "id": "tp_O10",
+  "name": "中山國小",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O10",
+  "latitude": 25.062674,
+  "longitude": 121.526598,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運中山國小站（O10）",
+  "action": "fogErase",
+  "unlock": null
+}

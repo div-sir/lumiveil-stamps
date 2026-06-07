@@ -1,0 +1,19 @@
+{
+  "id": "ks_C23",
+  "name": "龍華國小",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C23",
+  "latitude": 22.654482,
+  "longitude": 120.295085,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運龍華國小站（C23）",
+  "action": "fogErase",
+  "unlock": null
+}

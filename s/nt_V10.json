@@ -1,0 +1,19 @@
+{
+  "id": "nt_V10",
+  "name": "淡海新市鎮",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "V"
+  ],
+  "stationCode": "V10",
+  "latitude": 25.195655,
+  "longitude": 121.432475,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運淡海新市鎮站（V10）",
+  "action": "fogErase",
+  "unlock": null
+}

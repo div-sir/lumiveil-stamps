@@ -1,0 +1,17 @@
+{
+  "id": "tra_fulong",
+  "name": "福隆",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7290",
+  "latitude": 25.015692,
+  "longitude": 121.944576,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵福隆站",
+  "action": "fogErase",
+  "unlock": null
+}

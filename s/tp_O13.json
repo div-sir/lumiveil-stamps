@@ -1,0 +1,19 @@
+{
+  "id": "tp_O13",
+  "name": "台北橋",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O13",
+  "latitude": 25.063178,
+  "longitude": 121.500551,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運台北橋站（O13）",
+  "action": "fogErase",
+  "unlock": null
+}

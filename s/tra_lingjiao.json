@@ -1,0 +1,17 @@
+{
+  "id": "tra_lingjiao",
+  "name": "嶺腳",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7334",
+  "latitude": 25.02959,
+  "longitude": 121.748485,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵嶺腳站",
+  "action": "fogErase",
+  "unlock": null
+}

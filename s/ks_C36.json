@@ -1,0 +1,19 @@
+{
+  "id": "ks_C36",
+  "name": "凱旋二聖",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C36",
+  "latitude": 22.612511,
+  "longitude": 120.327148,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運凱旋二聖站（C36）",
+  "action": "fogErase",
+  "unlock": null
+}

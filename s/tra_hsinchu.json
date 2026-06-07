@@ -1,0 +1,17 @@
+{
+  "id": "tra_hsinchu",
+  "name": "新竹",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1210",
+  "latitude": 24.801403,
+  "longitude": 120.971678,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵新竹站",
+  "action": "fogErase",
+  "unlock": null
+}

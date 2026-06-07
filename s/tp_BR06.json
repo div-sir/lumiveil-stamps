@@ -1,0 +1,19 @@
+{
+  "id": "tp_BR06",
+  "name": "麟光",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BR"
+  ],
+  "stationCode": "BR06",
+  "latitude": 25.018439,
+  "longitude": 121.558905,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運麟光站（BR06）",
+  "action": "fogErase",
+  "unlock": null
+}

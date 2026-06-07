@@ -1,0 +1,17 @@
+{
+  "id": "tra_taichung",
+  "name": "臺中",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "3300",
+  "latitude": 24.137066,
+  "longitude": 120.686867,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵臺中站",
+  "action": "fogErase",
+  "unlock": null
+}

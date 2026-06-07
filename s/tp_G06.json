@@ -1,0 +1,19 @@
+{
+  "id": "tp_G06",
+  "name": "萬隆",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "G"
+  ],
+  "stationCode": "G06",
+  "latitude": 25.001899,
+  "longitude": 121.538996,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運萬隆站（G06）",
+  "action": "fogErase",
+  "unlock": null
+}

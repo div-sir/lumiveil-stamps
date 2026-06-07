@@ -1,0 +1,17 @@
+{
+  "id": "tc_109",
+  "name": "文心櫻花",
+  "category": "mrt_station",
+  "networkID": "taichung_mrt",
+  "lineCodes": null,
+  "stationCode": "109",
+  "latitude": 24.16778,
+  "longitude": 120.65389,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺中捷運文心櫻花站（109）",
+  "action": "fogErase",
+  "unlock": null
+}

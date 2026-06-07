@@ -1,0 +1,17 @@
+{
+  "id": "tra_fong_ming",
+  "name": "鳳鳴",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1075",
+  "latitude": 24.972497,
+  "longitude": 121.336797,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵鳳鳴站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_daxi",
+  "name": "大溪",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7260",
+  "latitude": 24.938363,
+  "longitude": 121.889806,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵大溪站",
+  "action": "fogErase",
+  "unlock": null
+}

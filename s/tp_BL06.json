@@ -1,0 +1,19 @@
+{
+  "id": "tp_BL06",
+  "name": "府中",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BL"
+  ],
+  "stationCode": "BL06",
+  "latitude": 25.00877,
+  "longitude": 121.45928,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運府中站（BL06）",
+  "action": "fogErase",
+  "unlock": null
+}

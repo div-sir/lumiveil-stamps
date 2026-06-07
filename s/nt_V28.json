@@ -1,0 +1,19 @@
+{
+  "id": "nt_V28",
+  "name": "臺北海洋大學",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "V"
+  ],
+  "stationCode": "V28",
+  "latitude": 25.191161,
+  "longitude": 121.426285,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運臺北海洋大學站（V28）",
+  "action": "fogErase",
+  "unlock": null
+}

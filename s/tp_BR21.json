@@ -1,0 +1,19 @@
+{
+  "id": "tp_BR21",
+  "name": "葫洲",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BR"
+  ],
+  "stationCode": "BR21",
+  "latitude": 25.072639,
+  "longitude": 121.607363,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運葫洲站（BR21）",
+  "action": "fogErase",
+  "unlock": null
+}

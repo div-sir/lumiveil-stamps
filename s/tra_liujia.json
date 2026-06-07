@@ -1,0 +1,17 @@
+{
+  "id": "tra_liujia",
+  "name": "六家",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "1194",
+  "latitude": 24.807126,
+  "longitude": 121.039414,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵六家站",
+  "action": "fogErase",
+  "unlock": null
+}

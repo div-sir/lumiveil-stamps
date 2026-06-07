@@ -1,0 +1,17 @@
+{
+  "id": "tra_shanli",
+  "name": "山里",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "6010",
+  "latitude": 22.861815,
+  "longitude": 121.137991,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵山里站",
+  "action": "fogErase",
+  "unlock": null
+}

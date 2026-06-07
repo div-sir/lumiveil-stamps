@@ -1,0 +1,19 @@
+{
+  "id": "tp_O16",
+  "name": "先嗇宮",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "O"
+  ],
+  "stationCode": "O16",
+  "latitude": 25.046428,
+  "longitude": 121.471681,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運先嗇宮站（O16）",
+  "action": "fogErase",
+  "unlock": null
+}

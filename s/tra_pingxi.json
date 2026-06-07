@@ -1,0 +1,17 @@
+{
+  "id": "tra_pingxi",
+  "name": "平溪",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7335",
+  "latitude": 25.025663,
+  "longitude": 121.740012,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵平溪站",
+  "action": "fogErase",
+  "unlock": null
+}

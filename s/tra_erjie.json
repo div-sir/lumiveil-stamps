@@ -1,0 +1,17 @@
+{
+  "id": "tra_erjie",
+  "name": "二結",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7180",
+  "latitude": 24.706,
+  "longitude": 121.77421,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵二結站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_ji_an",
+  "name": "吉安",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "6250",
+  "latitude": 23.967825,
+  "longitude": 121.582794,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵吉安站",
+  "action": "fogErase",
+  "unlock": null
+}

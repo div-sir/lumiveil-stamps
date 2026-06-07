@@ -1,0 +1,19 @@
+{
+  "id": "tp_G01",
+  "name": "新店",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "G"
+  ],
+  "stationCode": "G01",
+  "latitude": 24.958067,
+  "longitude": 121.537631,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運新店站（G01）",
+  "action": "fogErase",
+  "unlock": null
+}

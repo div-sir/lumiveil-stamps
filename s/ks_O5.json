@@ -1,0 +1,20 @@
+{
+  "id": "ks_O5",
+  "name": "美麗島",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "O",
+    "R"
+  ],
+  "stationCode": "O5/R10",
+  "latitude": 22.631394,
+  "longitude": 120.30186,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運美麗島站（O5）",
+  "action": "fogErase",
+  "unlock": null
+}

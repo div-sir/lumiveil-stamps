@@ -1,0 +1,17 @@
+{
+  "id": "thsr_taipei",
+  "name": "台北",
+  "category": "thsr_station",
+  "networkID": "thsr",
+  "lineCodes": null,
+  "stationCode": null,
+  "latitude": 25.047554,
+  "longitude": 121.51705,
+  "gpsRadiusMeters": 250,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "台灣高鐵台北站",
+  "action": "fogErase",
+  "unlock": null
+}

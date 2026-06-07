@@ -1,0 +1,19 @@
+{
+  "id": "nt_K09",
+  "name": "十四張",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "K"
+  ],
+  "stationCode": "K09",
+  "latitude": 24.984363,
+  "longitude": 121.527308,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運十四張站（K09）",
+  "action": "fogErase",
+  "unlock": null
+}

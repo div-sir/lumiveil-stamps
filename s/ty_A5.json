@@ -1,0 +1,19 @@
+{
+  "id": "ty_A5",
+  "name": "泰山",
+  "category": "mrt_station",
+  "networkID": "taoyuan_mrt",
+  "lineCodes": [
+    "A"
+  ],
+  "stationCode": "A5",
+  "latitude": 25.053265,
+  "longitude": 121.439552,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "桃園捷運泰山站（A5）",
+  "action": "fogErase",
+  "unlock": null
+}

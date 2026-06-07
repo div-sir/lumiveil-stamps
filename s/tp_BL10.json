@@ -1,0 +1,19 @@
+{
+  "id": "tp_BL10",
+  "name": "龍山寺",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BL"
+  ],
+  "stationCode": "BL10",
+  "latitude": 25.035284,
+  "longitude": 121.499581,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運龍山寺站（BL10）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_zhongxing",
+  "name": "中興車站",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": null,
+  "latitude": 23.300133,
+  "longitude": 120.316465,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵中興車站站",
+  "action": "fogErase",
+  "unlock": null
+}

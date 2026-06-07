@@ -1,0 +1,19 @@
+{
+  "id": "tp_BL04",
+  "name": "海山",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BL"
+  ],
+  "stationCode": "BL04",
+  "latitude": 24.985318,
+  "longitude": 121.448786,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運海山站（BL04）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tra_shuangxi",
+  "name": "雙溪",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7310",
+  "latitude": 25.038828,
+  "longitude": 121.866974,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵雙溪站",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ks_R9",
+  "name": "中央公園",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R9",
+  "latitude": 22.624872,
+  "longitude": 120.301118,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運中央公園站（R9）",
+  "action": "fogErase",
+  "unlock": null
+}

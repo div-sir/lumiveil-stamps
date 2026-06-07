@@ -1,0 +1,19 @@
+{
+  "id": "ks_C34",
+  "name": "五權國小",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C34",
+  "latitude": 22.621171,
+  "longitude": 120.32518,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運五權國小站（C34）",
+  "action": "fogErase",
+  "unlock": null
+}

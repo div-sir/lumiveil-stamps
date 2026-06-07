@@ -1,0 +1,17 @@
+{
+  "id": "tc_117",
+  "name": "九德",
+  "category": "mrt_station",
+  "networkID": "taichung_mrt",
+  "lineCodes": null,
+  "stationCode": "117",
+  "latitude": 24.110949,
+  "longitude": 120.634341,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺中捷運九德站（117）",
+  "action": "fogErase",
+  "unlock": null
+}

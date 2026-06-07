@@ -1,0 +1,17 @@
+{
+  "id": "tra_wanrong",
+  "name": "萬榮",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "6170",
+  "latitude": 23.712,
+  "longitude": 121.418837,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵萬榮站",
+  "action": "fogErase",
+  "unlock": null
+}

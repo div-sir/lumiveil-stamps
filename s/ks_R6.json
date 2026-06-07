@@ -1,0 +1,19 @@
+{
+  "id": "ks_R6",
+  "name": "凱旋",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R6",
+  "latitude": 22.597018,
+  "longitude": 120.315113,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運凱旋站（R6）",
+  "action": "fogErase",
+  "unlock": null
+}

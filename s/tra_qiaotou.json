@@ -1,0 +1,17 @@
+{
+  "id": "tra_qiaotou",
+  "name": "橋頭",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4320",
+  "latitude": 22.761098,
+  "longitude": 120.310255,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵橋頭站",
+  "action": "fogErase",
+  "unlock": null
+}

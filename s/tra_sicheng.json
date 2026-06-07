@@ -1,0 +1,17 @@
+{
+  "id": "tra_sicheng",
+  "name": "四城",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "7200",
+  "latitude": 24.786859,
+  "longitude": 121.762903,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵四城站",
+  "action": "fogErase",
+  "unlock": null
+}

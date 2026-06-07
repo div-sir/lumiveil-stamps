@@ -1,0 +1,19 @@
+{
+  "id": "nt_K02",
+  "name": "玫瑰中國城",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "K"
+  ],
+  "stationCode": "K02",
+  "latitude": 24.95092,
+  "longitude": 121.49406,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運玫瑰中國城站（K02）",
+  "action": "fogErase",
+  "unlock": null
+}

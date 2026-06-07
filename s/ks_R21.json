@@ -1,0 +1,19 @@
+{
+  "id": "ks_R21",
+  "name": "都會公園",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "R"
+  ],
+  "stationCode": "R21",
+  "latitude": 22.72961,
+  "longitude": 120.320927,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運都會公園站（R21）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "nt_Y11",
+  "name": "景安",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "Y"
+  ],
+  "stationCode": "Y11",
+  "latitude": 24.9934,
+  "longitude": 121.50571,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運景安站（Y11）",
+  "action": "fogErase",
+  "unlock": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "nt_Y12",
+  "name": "中和",
+  "category": "mrt_station",
+  "networkID": "new_taipei_mrt",
+  "lineCodes": [
+    "Y"
+  ],
+  "stationCode": "Y12",
+  "latitude": 25.002317,
+  "longitude": 121.49585,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "新北捷運中和站（Y12）",
+  "action": "fogErase",
+  "unlock": null
+}

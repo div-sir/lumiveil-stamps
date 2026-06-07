@@ -1,0 +1,19 @@
+{
+  "id": "ks_C13",
+  "name": "駁二蓬萊",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C13",
+  "latitude": 22.620445,
+  "longitude": 120.279918,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運駁二蓬萊站（C13）",
+  "action": "fogErase",
+  "unlock": null
+}

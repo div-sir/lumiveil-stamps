@@ -1,0 +1,17 @@
+{
+  "id": "tra_zuoying_jiucheng",
+  "name": "左營(舊城)",
+  "category": "tra_station",
+  "networkID": "tra",
+  "lineCodes": null,
+  "stationCode": "4350",
+  "latitude": 22.67399,
+  "longitude": 120.293754,
+  "gpsRadiusMeters": 200,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺鐵左營(舊城)站",
+  "action": "fogErase",
+  "unlock": null
+}

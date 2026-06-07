@@ -1,0 +1,19 @@
+{
+  "id": "tp_BR12",
+  "name": "中山國中",
+  "category": "mrt_station",
+  "networkID": "taipei_mrt",
+  "lineCodes": [
+    "BR"
+  ],
+  "stationCode": "BR12",
+  "latitude": 25.060687,
+  "longitude": 121.544202,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "臺北捷運中山國中站（BR12）",
+  "action": "fogErase",
+  "unlock": null
+}

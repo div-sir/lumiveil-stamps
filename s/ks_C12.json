@@ -1,0 +1,19 @@
+{
+  "id": "ks_C12",
+  "name": "駁二大義",
+  "category": "mrt_station",
+  "networkID": "kaohsiung_mrt",
+  "lineCodes": [
+    "C"
+  ],
+  "stationCode": "C12",
+  "latitude": 22.618499,
+  "longitude": 120.284222,
+  "gpsRadiusMeters": 150,
+  "isActive": true,
+  "campaignID": null,
+  "stampImageURLs": [],
+  "description": "高雄捷運駁二大義站（C12）",
+  "action": "fogErase",
+  "unlock": null
+}
