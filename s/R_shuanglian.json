@@ -3,7 +3,9 @@
   "name": "雙連",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "R",
+  "lineCodes": [
+    "R"
+  ],
   "stationCode": "R12",
   "latitude": 25.0577,
   "longitude": 121.5219,

@@ -3,7 +3,9 @@
   "name": "中正紀念堂",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "R",
+  "lineCodes": [
+    "R"
+  ],
   "stationCode": "R08",
   "latitude": 25.0349,
   "longitude": 121.5195,

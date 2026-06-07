@@ -3,10 +3,12 @@
   "name": "後山埤",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "BL",
+  "lineCodes": [
+    "BL"
+  ],
   "stationCode": "BL19",
   "latitude": 25.0398,
-  "longitude": 121.5880,
+  "longitude": 121.588,
   "gpsRadiusMeters": 150,
   "isActive": true,
   "campaignID": null,

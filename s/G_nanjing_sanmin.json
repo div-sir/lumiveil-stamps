@@ -3,7 +3,9 @@
   "name": "南京三民",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "G",
+  "lineCodes": [
+    "G"
+  ],
   "stationCode": "G02",
   "latitude": 25.0527,
   "longitude": 121.5683,

@@ -3,7 +3,9 @@
   "name": "忠孝敦化",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "BL",
+  "lineCodes": [
+    "BL"
+  ],
   "stationCode": "BL15",
   "latitude": 25.0408,
   "longitude": 121.5534,

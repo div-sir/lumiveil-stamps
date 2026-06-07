@@ -3,7 +3,10 @@
   "name": "民權西路",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "R",
+  "lineCodes": [
+    "R",
+    "O"
+  ],
   "stationCode": "R13",
   "latitude": 25.0624,
   "longitude": 121.5213,

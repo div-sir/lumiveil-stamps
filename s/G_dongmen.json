@@ -3,7 +3,9 @@
   "name": "東門",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "G",
+  "lineCodes": [
+    "G"
+  ],
   "stationCode": "G14",
   "latitude": 25.0339,
   "longitude": 121.5295,

@@ -3,7 +3,9 @@
   "name": "江子翠",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "BL",
+  "lineCodes": [
+    "BL"
+  ],
   "stationCode": "BL09",
   "latitude": 25.0272,
   "longitude": 121.4895,

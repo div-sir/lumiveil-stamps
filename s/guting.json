@@ -3,7 +3,10 @@
   "name": "古亭",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "R",
+  "lineCodes": [
+    "R",
+    "G"
+  ],
   "stationCode": "R07",
   "latitude": 25.0286,
   "longitude": 121.5214,

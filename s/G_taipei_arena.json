@@ -3,7 +3,9 @@
   "name": "台北小巨蛋",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "G",
+  "lineCodes": [
+    "G"
+  ],
   "stationCode": "G03",
   "latitude": 25.0514,
   "longitude": 121.5557,

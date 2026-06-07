@@ -3,7 +3,9 @@
   "name": "西門",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "BL",
+  "lineCodes": [
+    "BL"
+  ],
   "stationCode": "BL11",
   "latitude": 25.0423,
   "longitude": 121.5079,

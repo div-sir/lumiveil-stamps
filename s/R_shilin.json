@@ -3,7 +3,9 @@
   "name": "士林",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "R",
+  "lineCodes": [
+    "R"
+  ],
   "stationCode": "R16",
   "latitude": 25.0938,
   "longitude": 121.5246,

@@ -3,7 +3,10 @@
   "name": "松江南京",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "G",
+  "lineCodes": [
+    "G",
+    "O"
+  ],
   "stationCode": "G05",
   "latitude": 25.0524,
   "longitude": 121.5349,

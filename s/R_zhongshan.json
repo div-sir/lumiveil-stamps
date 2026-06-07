@@ -3,7 +3,9 @@
   "name": "中山",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "R",
+  "lineCodes": [
+    "R"
+  ],
   "stationCode": "R11",
   "latitude": 25.0527,
   "longitude": 121.5221,

@@ -3,10 +3,12 @@
   "name": "行天宮",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "G",
+  "lineCodes": [
+    "G"
+  ],
   "stationCode": "G06",
   "latitude": 25.0597,
-  "longitude": 121.5330,
+  "longitude": 121.533,
   "gpsRadiusMeters": 150,
   "isActive": true,
   "campaignID": null,

@@ -3,10 +3,13 @@
   "name": "忠孝新生",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "BL",
+  "lineCodes": [
+    "BL",
+    "G"
+  ],
   "stationCode": "BL13",
   "latitude": 25.0431,
-  "longitude": 121.5320,
+  "longitude": 121.532,
   "gpsRadiusMeters": 150,
   "isActive": true,
   "campaignID": null,

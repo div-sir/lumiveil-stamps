@@ -3,7 +3,9 @@
   "name": "台電大樓",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "G",
+  "lineCodes": [
+    "G"
+  ],
   "stationCode": "G11",
   "latitude": 25.0247,
   "longitude": 121.5271,

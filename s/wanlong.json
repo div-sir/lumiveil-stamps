@@ -3,7 +3,9 @@
   "name": "萬隆",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "G",
+  "lineCodes": [
+    "G"
+  ],
   "stationCode": "G13",
   "latitude": 25.0105,
   "longitude": 121.5015,

@@ -3,7 +3,9 @@
   "name": "市政府",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "BL",
+  "lineCodes": [
+    "BL"
+  ],
   "stationCode": "BL17",
   "latitude": 25.0405,
   "longitude": 121.5656,

@@ -3,7 +3,9 @@
   "name": "忠孝復興",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "BL",
+  "lineCodes": [
+    "BL"
+  ],
   "stationCode": "BL14",
   "latitude": 25.0415,
   "longitude": 121.5467,

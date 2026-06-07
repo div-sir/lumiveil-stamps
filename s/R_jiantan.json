@@ -3,7 +3,9 @@
   "name": "劍潭",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "R",
+  "lineCodes": [
+    "R"
+  ],
   "stationCode": "R15",
   "latitude": 25.0851,
   "longitude": 121.5132,

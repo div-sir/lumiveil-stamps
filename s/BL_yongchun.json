@@ -3,7 +3,9 @@
   "name": "永春",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "BL",
+  "lineCodes": [
+    "BL"
+  ],
   "stationCode": "BL18",
   "latitude": 25.0399,
   "longitude": 121.5772,

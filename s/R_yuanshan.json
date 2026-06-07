@@ -3,7 +3,9 @@
   "name": "圓山",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "R",
+  "lineCodes": [
+    "R"
+  ],
   "stationCode": "R14",
   "latitude": 25.0726,
   "longitude": 121.5197,

@@ -3,9 +3,11 @@
   "name": "公館",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "G",
+  "lineCodes": [
+    "G"
+  ],
   "stationCode": "G12",
-  "latitude": 25.0180,
+  "latitude": 25.018,
   "longitude": 121.5328,
   "gpsRadiusMeters": 150,
   "isActive": true,

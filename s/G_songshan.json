@@ -3,7 +3,9 @@
   "name": "松山",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "G",
+  "lineCodes": [
+    "G"
+  ],
   "stationCode": "G01",
   "latitude": 25.0498,
   "longitude": 121.5785,

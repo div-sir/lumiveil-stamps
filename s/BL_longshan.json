@@ -3,7 +3,9 @@
   "name": "龍山寺",
   "category": "mrt_station",
   "networkID": "taipei_mrt",
-  "lineCode": "BL",
+  "lineCodes": [
+    "BL"
+  ],
   "stationCode": "BL10",
   "latitude": 25.0355,
   "longitude": 121.4995,
